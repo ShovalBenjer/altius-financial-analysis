@@ -1,0 +1,1833 @@
+Deal Name,Date,Investor,Measure,Amount
+ALPHA,2018-01-01,Gates Invest,Commitment,6321000.0
+ALPHA,2018-01-01,MSD,Commitment,1246000.0
+ALPHA,2018-01-01,Stowy Family,Commitment,12586000.0
+ALPHA,2018-01-01,Gibraltar Investments,Commitment,10871000.0
+ALPHA,2018-01-01,Gates Capital,Commitment,3717000.0
+ALPHA,2018-01-01,Sapir LLC,Commitment,1939000.0
+ALPHA,2018-01-01,Jobs Capital,Commitment,4886000.0
+ALPHA,2018-01-01,Oak Family,Commitment,6482000.0
+ALPHA,2018-01-01,Bill and Melinda Foundation,Commitment,6440000.0
+ALPHA,2018-01-01,Overwatch LLC,Commitment,14399000.0
+ALPHA,2018-01-01,Third Gen Partners,Commitment,1113000.0
+ALPHA,2018-04-19,Third Gen Partners,Capital Call,423497.0
+ALPHA,2018-04-19,Sapir LLC,Estimated NAV,737789.641824
+ALPHA,2018-04-19,Gates Capital,Other Fees,50259.0
+ALPHA,2018-04-19,Jobs Capital,Estimated NAV,1859123.357376
+ALPHA,2018-04-19,MSD,Capital Call,474103.0
+ALPHA,2018-04-19,Overwatch LLC,Other Fees,194694.0
+ALPHA,2018-04-19,Bill and Melinda Foundation,Other Fees,87077.0
+ALPHA,2018-04-19,Sapir LLC,Capital Call,737790.0
+ALPHA,2018-04-19,Oak Family,Other Fees,87645.0
+ALPHA,2018-04-19,Stowy Family,Capital Call,4788974.0
+ALPHA,2018-04-19,MSD,Estimated NAV,474103.091136
+ALPHA,2018-04-19,Bill and Melinda Foundation,Estimated NAV,2450420.47104
+ALPHA,2018-04-19,Gibraltar Investments,Estimated NAV,4136416.295136
+ALPHA,2018-04-19,Stowy Family,Other Fees,170179.0
+ALPHA,2018-04-19,MSD,Other Fees,16848.0
+ALPHA,2018-04-19,Overwatch LLC,Estimated NAV,5478820.553184
+ALPHA,2018-04-19,Gates capital,Capital Call,1414319.0
+ALPHA,2018-04-19,Sapir LLC,Other Fees,26218.0
+ALPHA,2018-04-19,Jobs Capital,Capital Call,1859123.0
+ALPHA,2018-04-19,Gibraltar Investments,Capital Call,4136416.0
+ALPHA,2018-04-19,Gates Capital,Estimated NAV,1414318.771872
+ALPHA,2018-04-19,Stowy Family,Estimated NAV,4788973.920576
+ALPHA,2018-04-19,Gates Invest,Other Fees,85468.0
+ALPHA,2018-04-19,Overwatch LLC,Capital Call,5478821.0
+ALPHA,2018-04-19,Oak Family,Estimated NAV,2466401.474112
+ALPHA,2018-04-19,Third Gen Partners,Other Fees,15049.0
+ALPHA,2018-04-19,Oak Family,Capital Call,2466401.0
+ALPHA,2018-04-19,Gates Invest,Estimated NAV,2405140.962336
+ALPHA,2018-04-19,Bill and Melinda Foundation,Capital Call,2450420.0
+ALPHA,2018-04-19,Jobs Capital,Other Fees,66065.0
+ALPHA,2018-04-19,Gates Invest,Capital Call,2405141.0
+ALPHA,2018-04-19,Gibraltar Investments,Other Fees,146990.0
+ALPHA,2018-04-19,Third Gen Partners,Estimated NAV,423496.581408
+ALPHA,2018-05-15,MSD,Capital Call,20141.0
+ALPHA,2018-05-15,Gates Capital,Capital Call,60085.0
+ALPHA,2018-05-15,Gates Invest,Capital Call,102178.0
+ALPHA,2018-05-15,Stowy Family,Estimated NAV,4992423.913576
+ALPHA,2018-05-15,Jobs Capital,Estimated NAV,1938104.500376
+ALPHA,2018-05-15,Gibraltar Investments,Estimated NAV,4312143.680636
+ALPHA,2018-05-15,Bill and Melinda Foundation,Estimated NAV,2554521.69104
+ALPHA,2018-05-15,Oak Family,Estimated NAV,2571181.615112
+ALPHA,2018-05-15,Oak Family,Capital Call,104780.0
+ALPHA,2018-05-15,Overwatch LLC,Estimated NAV,5711577.302684
+ALPHA,2018-05-15,MSD,Estimated NAV,494244.414136
+ALPHA,2018-05-15,Gates Invest,Estimated NAV,2507318.572836
+ALPHA,2018-05-15,Bill and Melinda Foundation,Capital Call,104101.0
+ALPHA,2018-05-15,Stowy Family,Capital Call,203450.0
+ALPHA,2018-05-15,Gates Capital,Estimated NAV,1474403.280372
+ALPHA,2018-05-15,Jobs Capital,Capital Call,78981.0
+ALPHA,2018-05-15,Overwatch LLC,Capital Call,232757.0
+ALPHA,2018-05-15,Sapir LLC,Capital Call,31344.0
+ALPHA,2018-05-15,Third Gen Partners,Estimated NAV,441487.987908
+ALPHA,2018-05-15,Sapir LLC,Estimated NAV,769133.161324
+ALPHA,2018-05-15,Gibraltar Investments,Capital Call,175727.0
+ALPHA,2018-05-15,Third Gen Partners,Capital Call,17991.0
+ALPHA,2018-09-05,Gates Capital,Estimated NAV,1626062.562072
+ALPHA,2018-09-05,Jobs Capital,Estimated NAV,2137460.768976
+ALPHA,2018-09-05,Gibraltar Investments,Capital Call,50921.0
+ALPHA,2018-09-05,Sapir LLC,Estimated NAV,848247.325224
+ALPHA,2018-09-05,Gates capital,Capital Call,17411.0
+ALPHA,2018-09-05,Gibraltar Investments,Estimated NAV,4755697.097736
+ALPHA,2018-09-05,Third Gen Partners,Capital Call,5213.0
+ALPHA,2018-09-05,Gates Invest,Estimated NAV,2765225.034936
+ALPHA,2018-09-05,MSD,Capital Call,5836.0
+ALPHA,2018-09-05,MSD,Estimated NAV,545083.118736
+ALPHA,2018-09-05,Overwatch LLC,Estimated NAV,6299078.512584
+ALPHA,2018-09-05,Oak Family,Estimated NAV,2835657.123312
+ALPHA,2018-09-05,Stowy Family,Capital Call,58954.0
+ALPHA,2018-09-05,Overwatch LLC,Capital Call,67447.0
+ALPHA,2018-09-05,Third Gen Partners,Estimated NAV,486900.089208
+ALPHA,2018-09-05,Stowy Family,Estimated NAV,5505951.952176
+ALPHA,2018-09-05,Sapir LLC,Capital Call,9083.0
+ALPHA,2018-09-05,Gates Invest,Capital Call,29608.0
+ALPHA,2018-09-05,Bill and Melinda Foundation,Estimated NAV,2817283.53504
+ALPHA,2018-09-05,Oak Family,Capital Call,30363.0
+ALPHA,2018-09-05,Bill and Melinda Foundation,Capital Call,30166.0
+ALPHA,2018-09-05,Jobs Capital,Capital Call,22887.0
+ALPHA,2018-11-20,MSD,Estimated NAV,545083.118736
+ALPHA,2018-11-20,Overwatch LLC,Capital Call,520054.0
+ALPHA,2018-11-20,Oak Family,Estimated NAV,2835657.123312
+ALPHA,2018-11-20,Oak Family,Capital Call,234113.0
+ALPHA,2018-11-20,Third Gen Partners,Estimated NAV,486900.089208
+ALPHA,2018-11-20,Sapir LLC,Capital Call,70032.0
+ALPHA,2018-11-20,Stowy Family,Capital Call,454574.0
+ALPHA,2018-11-20,Gates Invest,Estimated NAV,2765225.034936
+ALPHA,2018-11-20,Bill and Melinda Foundation,Estimated NAV,2817283.53504
+ALPHA,2018-11-20,Gibraltar Investments,Estimated NAV,4755697.097736
+ALPHA,2018-11-20,Third Gen Partners,Capital Call,40199.0
+ALPHA,2018-11-20,Stowy Family,Estimated NAV,5505951.952176
+ALPHA,2018-11-20,Overwatch LLC,Estimated NAV,6299078.512584
+ALPHA,2018-11-20,Gates Invest,Capital Call,228298.0
+ALPHA,2018-11-20,Jobs Capital,Estimated NAV,2137460.768976
+ALPHA,2018-11-20,Jobs Capital,Capital Call,176470.0
+ALPHA,2018-11-20,MSD,Capital Call,45002.0
+ALPHA,2018-11-20,Gibraltar Investments,Capital Call,392632.0
+ALPHA,2018-11-20,Bill and Melinda Foundation,Capital Call,232596.0
+ALPHA,2018-11-20,Gates Capital,Estimated NAV,1626062.562072
+ALPHA,2018-11-20,Sapir LLC,Estimated NAV,848247.325224
+ALPHA,2018-11-20,Gates Capital,Capital Call,134248.0
+ALPHA,2019-01-27,MSD,Estimated NAV,528085.0
+ALPHA,2019-01-27,Third Gen Partners,Estimated NAV,471717.0
+ALPHA,2019-01-27,Jobs Capital,Estimated NAV,2070807.0
+ALPHA,2019-01-27,Overwatch LLC,Estimated NAV,6622703.6238
+ALPHA,2019-01-27,Bill and Melinda Foundation,Estimated NAV,2729430.0
+ALPHA,2019-01-27,Oak Family,Estimated NAV,2747231.0
+ALPHA,2019-01-27,Overwatch LLC,Estimated NAV,6102648.0
+ALPHA,2019-01-27,Stowy Family,Estimated NAV,5788828.9332
+ALPHA,2019-01-27,Bill and Melinda Foundation,Estimated NAV,2962025.928
+ALPHA,2019-01-27,Gates Capital,Estimated NAV,1575356.0
+ALPHA,2019-01-27,Sapir LLC,Estimated NAV,821796.0
+ALPHA,2019-01-27,Stowy Family,Estimated NAV,5334255.0
+ALPHA,2019-01-27,Oak Family,Estimated NAV,2981343.4884
+ALPHA,2019-01-27,Gates Invest,Estimated NAV,2907292.8402
+ALPHA,2019-01-27,Sapir LLC,Estimated NAV,891827.3718
+ALPHA,2019-01-27,Third Gen Partners,Estimated NAV,511915.3506
+ALPHA,2019-01-27,Gibraltar Investments,Estimated NAV,4607396.0
+ALPHA,2019-01-27,Gates Invest,Estimated NAV,2678995.0
+ALPHA,2019-01-27,Gates Capital,Estimated NAV,1709604.0954
+ALPHA,2019-01-27,Jobs Capital,Estimated NAV,2247276.1932
+ALPHA,2019-01-27,Gibraltar Investments,Estimated NAV,5000028.5502
+ALPHA,2019-01-27,MSD,Estimated NAV,573087.6252
+ALPHA,2019-02-07,Jobs Capital,Capital Call,524243.0
+ALPHA,2019-02-07,Jobs Capital,Estimated NAV,2771518.935
+ALPHA,2019-02-07,Sapir LLC,Capital Call,208045.0
+ALPHA,2019-02-07,Gates Invest,Estimated NAV,3585503.7225
+ALPHA,2019-02-07,Gates Capital,Estimated NAV,2108419.1325
+ALPHA,2019-02-07,Oak Family,Estimated NAV,3676828.845
+ALPHA,2019-02-07,Gates Capital,Capital Call,398815.0
+ALPHA,2019-02-07,Overwatch LLC,Estimated NAV,8167642.4775
+ALPHA,2019-02-07,Gibraltar Investments,Estimated NAV,6166431.0975
+ALPHA,2019-02-07,Third Gen Partners,Capital Call,119419.0
+ALPHA,2019-02-07,Stowy Family,Estimated NAV,7139242.185
+ALPHA,2019-02-07,Bill and Melinda Foundation,Capital Call,690979.0
+ALPHA,2019-02-07,Oak Family,Capital Call,695485.0
+ALPHA,2019-02-07,MSD,Capital Call,133689.0
+ALPHA,2019-02-07,Bill and Melinda Foundation,Estimated NAV,3653004.9
+ALPHA,2019-02-07,MSD,Estimated NAV,706777.035
+ALPHA,2019-02-07,Overwatch LLC,Capital Call,1544939.0
+ALPHA,2019-02-07,Stowy Family,Capital Call,1350413.0
+ALPHA,2019-02-07,Sapir LLC,Estimated NAV,1099872.1275
+ALPHA,2019-02-07,Third Gen Partners,Estimated NAV,631334.5425
+ALPHA,2019-02-07,Gibraltar Investments,Capital Call,1166403.0
+ALPHA,2019-02-07,Gates Invest,Capital Call,678211.0
+ALPHA,2019-04-26,MSD,Estimated NAV,745007.5368
+ALPHA,2019-04-26,Sapir LLC,Estimated NAV,1159365.6612
+ALPHA,2019-04-26,Gates capital,Estimated NAV,2222466.3036
+ALPHA,2019-04-26,Third Gen Partners,Estimated NAV,665484.2604
+ALPHA,2019-04-26,Bill and Melinda Foundation,Estimated NAV,3850600.752
+ALPHA,2019-04-26,Jobs Capital,Estimated NAV,2921434.0488
+ALPHA,2019-04-26,Overwatch LLC,Capital Call,441797.0
+ALPHA,2019-04-26,Gibraltar Investments,Capital Call,333550.0
+ALPHA,2019-04-26,Gates Invest,Capital Call,193945.0
+ALPHA,2019-04-26,Overwatch LLC,Estimated NAV,8609441.0292
+ALPHA,2019-04-26,Gibraltar Investments,Estimated NAV,6499981.4868
+ALPHA,2019-04-26,Gates Capital,Capital Call,114047.0
+ALPHA,2019-04-26,Stowy Family,Capital Call,386171.0
+ALPHA,2019-04-26,Sapir LLC,Capital Call,59494.0
+ALPHA,2019-04-26,Oak Family,Estimated NAV,3875713.3656
+ALPHA,2019-04-26,Stowy Family,Estimated NAV,7525413.2088
+ALPHA,2019-04-26,Oak Family,Capital Call,198885.0
+ALPHA,2019-04-26,Gates Invest,Estimated NAV,3779448.3468
+ALPHA,2019-04-26,MSD,Capital Call,38231.0
+ALPHA,2019-04-26,Third Gen Partners,Capital Call,34150.0
+ALPHA,2019-04-26,Bill and Melinda Foundation,Capital Call,197596.0
+ALPHA,2019-04-26,Jobs Capital,Capital Call,149915.0
+ALPHA,2019-05-05,Sapir LLC,Estimated NAV,904366.0
+ALPHA,2019-05-05,Gates Capital,Estimated NAV,2246501.8062
+ALPHA,2019-05-05,Bill and Melinda Foundation,Estimated NAV,3892244.184
+ALPHA,2019-05-05,Third Gen Partners,Estimated NAV,672681.3318
+ALPHA,2019-05-05,Gates Invest,Estimated NAV,2948167.0
+ALPHA,2019-05-05,Jobs Capital,Estimated NAV,2278871.0
+ALPHA,2019-05-05,Gibraltar Investments,Estimated NAV,6570277.4106
+ALPHA,2019-05-05,MSD,Estimated NAV,581145.0
+ALPHA,2019-05-05,Oak Family,Estimated NAV,3917628.3852
+ALPHA,2019-05-05,Gates Invest,Estimated NAV,3820322.2806
+ALPHA,2019-05-05,Stowy Family,Estimated NAV,5870215.0
+ALPHA,2019-05-05,Third Gen Partners,Estimated NAV,519112.0
+ALPHA,2019-05-05,Jobs Capital,Estimated NAV,2953028.7396
+ALPHA,2019-05-05,MSD,Estimated NAV,753064.6356
+ALPHA,2019-05-05,Overwatch LLC,Estimated NAV,6715812.0
+ALPHA,2019-05-05,Overwatch LLC,Estimated NAV,8702550.3114
+ALPHA,2019-05-05,Gates Capital,Estimated NAV,1733640.0
+ALPHA,2019-05-05,Sapir LLC,Estimated NAV,1171903.9554
+ALPHA,2019-05-05,Stowy Family,Estimated NAV,7606798.9596
+ALPHA,2019-05-05,Oak Family,Estimated NAV,3023259.0
+ALPHA,2019-05-05,Gibraltar Investments,Estimated NAV,5070324.0
+ALPHA,2019-05-05,Bill and Melinda Foundation,Estimated NAV,3003669.0
+ALPHA,2019-08-18,Oak Family,Estimated NAV,3969545.779
+ALPHA,2019-08-18,Stowy Family,Estimated NAV,7707606.167
+ALPHA,2019-08-18,Sapir LLC,Estimated NAV,1127941.0
+ALPHA,2019-08-18,Gibraltar Investments,Estimated NAV,6323798.0
+ALPHA,2019-08-18,Bill and Melinda Foundation,Estimated NAV,3746229.0
+ALPHA,2019-08-18,Gibraltar Investments,Estimated NAV,6657348.3745
+ALPHA,2019-08-18,MSD,Estimated NAV,724814.0
+ALPHA,2019-08-18,Gates Invest,Estimated NAV,3677006.0
+ALPHA,2019-08-18,Bill and Melinda Foundation,Estimated NAV,3943825.18
+ALPHA,2019-08-18,Jobs Capital,Estimated NAV,2992163.017
+ALPHA,2019-08-18,Oak Family,Estimated NAV,3770661.0
+ALPHA,2019-08-18,Gates Capital,Estimated NAV,2276273.0115
+ALPHA,2019-08-18,Gates Capital,Estimated NAV,2162226.0
+ALPHA,2019-08-18,Gates Invest,Estimated NAV,3870950.1495
+ALPHA,2019-08-18,Jobs Capital,Estimated NAV,2842248.0
+ALPHA,2019-08-18,Third Gen Partners,Estimated NAV,647446.0
+ALPHA,2019-08-18,Sapir LLC,Estimated NAV,1187434.3205
+ALPHA,2019-08-18,Third Gen Partners,Estimated NAV,681595.8735
+ALPHA,2019-08-18,Overwatch LLC,Estimated NAV,8376080.0
+ALPHA,2019-08-18,Overwatch LLC,Estimated NAV,8817878.6905
+ALPHA,2019-08-18,MSD,Estimated NAV,763044.437
+ALPHA,2019-08-18,Stowy Family,Estimated NAV,7321435.0
+ALPHA,2019-08-27,Jobs Capital,Estimated NAV,3277467.6552
+ALPHA,2019-08-27,Gates Capital,Capital Call,217044.0
+ALPHA,2019-08-27,Oak Family,Estimated NAV,4348044.4824
+ALPHA,2019-08-27,Gates Capital,Estimated NAV,2493317.0844
+ALPHA,2019-08-27,Sapir LLC,Capital Call,113223.0
+ALPHA,2019-08-27,Overwatch LLC,Estimated NAV,9658669.0068
+ALPHA,2019-08-27,Overwatch LLC,Capital Call,840789.0
+ALPHA,2019-08-27,Oak Family,Capital Call,378499.0
+ALPHA,2019-08-27,Gates Invest,Estimated NAV,4240047.6972
+ALPHA,2019-08-27,Gibraltar Investments,Capital Call,634782.0
+ALPHA,2019-08-27,Bill and Melinda Foundation,Capital Call,376046.0
+ALPHA,2019-08-27,MSD,Estimated NAV,835801.2072
+ALPHA,2019-08-27,Gibraltar Investments,Estimated NAV,7292130.7572
+ALPHA,2019-08-27,Jobs Capital,Capital Call,285305.0
+ALPHA,2019-08-27,Third Gen Partners,Capital Call,64991.0
+ALPHA,2019-08-27,Gates Invest,Capital Call,369098.0
+ALPHA,2019-08-27,Bill and Melinda Foundation,Estimated NAV,4319871.408
+ALPHA,2019-08-27,Third Gen Partners,Estimated NAV,746586.4716
+ALPHA,2019-08-27,Stowy Family,Capital Call,734925.0
+ALPHA,2019-08-27,Stowy Family,Estimated NAV,8442531.2952
+ALPHA,2019-08-27,MSD,Capital Call,72757.0
+ALPHA,2019-08-27,Sapir LLC,Estimated NAV,1300656.9348
+ALPHA,2019-09-05,Bill and Melinda Foundation,Estimated NAV,2584687.47904
+ALPHA,2019-09-05,Bill and Melinda Foundation,Management Fees,32622.0
+ALPHA,2019-09-05,Jobs Capital,Estimated NAV,1960991.152576
+ALPHA,2019-09-05,Gates Invest,Estimated NAV,2536926.949536
+ALPHA,2019-09-05,Gates Invest,Management Fees,32019.0
+ALPHA,2019-09-05,Gates capital,Management Fees,18828.0
+ALPHA,2019-09-05,Overwatch LLC,Management Fees,72938.0
+ALPHA,2019-09-05,MSD,Estimated NAV,500080.838336
+ALPHA,2019-09-05,Sapir LLC,Management Fees,9822.0
+ALPHA,2019-09-05,Gibraltar Investments,Estimated NAV,4363064.842336
+ALPHA,2019-09-05,Gates capital,Estimated NAV,1491814.186272
+ALPHA,2019-09-05,Sapir LLC,Estimated NAV,778215.686624
+ALPHA,2019-09-05,Gibraltar Investments,Management Fees,55067.0
+ALPHA,2019-09-05,Jobs Capital,Management Fees,24750.0
+ALPHA,2019-09-05,Third Gen Partners,Estimated NAV,446701.423008
+ALPHA,2019-09-05,Oak Family,Estimated NAV,2601544.136512
+ALPHA,2019-09-05,Third Gen Partners,Management Fees,5638.0
+ALPHA,2019-09-05,Oak Family,Management Fees,32834.0
+ALPHA,2019-09-05,Stowy Family,Management Fees,63754.0
+ALPHA,2019-09-05,Stowy Family,Estimated NAV,5051378.355776
+ALPHA,2019-09-05,MSD,Management Fees,6312.0
+ALPHA,2019-09-05,Overwatch LLC,Estimated NAV,5779024.069984
+ALPHA,2019-10-11,Stowy Family,Estimated NAV,10280085.44326
+ALPHA,2019-10-11,Overwatch LLC,Estimated NAV,11760920.88809
+ALPHA,2019-10-11,Gates Invest,Estimated NAV,5162912.76711
+ALPHA,2019-10-11,Gates Capital,Capital Call,542681.0
+ALPHA,2019-10-11,Overwatch LLC,Capital Call,2102253.0
+ALPHA,2019-10-11,Jobs Capital,Estimated NAV,3990822.93626
+ALPHA,2019-10-11,Jobs Capital,Capital Call,713355.0
+ALPHA,2019-10-11,Bill and Melinda Foundation,Capital Call,940239.0
+ALPHA,2019-10-11,Third Gen Partners,Estimated NAV,909084.30783
+ALPHA,2019-10-11,Sapir LLC,Estimated NAV,1583750.64949
+ALPHA,2019-10-11,Stowy Family,Capital Call,1837554.0
+ALPHA,2019-10-11,Gates Capital,Estimated NAV,3035998.53747
+ALPHA,2019-10-11,Gates Invest,Capital Call,922865.0
+ALPHA,2019-10-11,Sapir LLC,Capital Call,283094.0
+ALPHA,2019-10-11,Bill and Melinda Foundation,Estimated NAV,5260110.4604
+ALPHA,2019-10-11,Oak Family,Capital Call,946371.0
+ALPHA,2019-10-11,MSD,Estimated NAV,1017717.02386
+ALPHA,2019-10-11,Gibraltar Investments,Capital Call,1587164.0
+ALPHA,2019-10-11,Gibraltar Investments,Estimated NAV,8879295.15761
+ALPHA,2019-10-11,MSD,Capital Call,181916.0
+ALPHA,2019-10-11,Oak Family,Estimated NAV,5294415.52862
+ALPHA,2019-10-11,Third Gen Partners,Capital Call,162498.0
+ALPHA,2019-10-22,Stowy Family,Estimated NAV,10458107.76066
+ALPHA,2019-10-22,Bill and Melinda Foundation,Estimated NAV,5351200.8564
+ALPHA,2019-10-22,Third Gen Partners,Estimated NAV,697339.0
+ALPHA,2019-10-22,Gates capital,Estimated NAV,2328848.0
+ALPHA,2019-10-22,MSD,Estimated NAV,780668.0
+ALPHA,2019-10-22,Oak Family,Estimated NAV,4061230.0
+ALPHA,2019-10-22,Sapir LLC,Estimated NAV,1611176.77959
+ALPHA,2019-10-22,MSD,Estimated NAV,1035341.03526
+ALPHA,2019-10-22,Gates Invest,Estimated NAV,3960357.0
+ALPHA,2019-10-22,Overwatch LLC,Estimated NAV,9021546.0
+ALPHA,2019-10-22,Oak Family,Estimated NAV,5386099.99242
+ALPHA,2019-10-22,Bill and Melinda Foundation,Estimated NAV,4034916.0
+ALPHA,2019-10-22,Gibraltar Investments,Estimated NAV,9033059.70651
+ALPHA,2019-10-22,Gibraltar Investments,Estimated NAV,6811113.0
+ALPHA,2019-10-22,Gates Invest,Estimated NAV,5252319.97101
+ALPHA,2019-10-22,Overwatch LLC,Estimated NAV,11964587.13219
+ALPHA,2019-10-22,Jobs Capital,Estimated NAV,4059932.82366
+ALPHA,2019-10-22,Stowy Family,Estimated NAV,7885628.0
+ALPHA,2019-10-22,Gates Capital,Estimated NAV,3088573.53777
+ALPHA,2019-10-22,Third Gen Partners,Estimated NAV,924827.10453
+ALPHA,2019-10-22,Jobs Capital,Estimated NAV,3061273.0
+ALPHA,2019-10-22,Sapir LLC,Estimated NAV,1214860.0
+ALPHA,2019-11-26,Gibraltar Investments,Capital Call,172577.0
+ALPHA,2019-11-26,Sapir LLC,Capital Call,30782.0
+ALPHA,2019-11-26,Jobs Capital,Estimated NAV,4137498.224428
+ALPHA,2019-11-26,Overwatch LLC,Capital Call,228586.0
+ALPHA,2019-11-26,Jobs Capital,Capital Call,77565.0
+ALPHA,2019-11-26,Oak Family,Capital Call,102902.0
+ALPHA,2019-11-26,MSD,Capital Call,19780.0
+ALPHA,2019-11-26,Bill and Melinda Foundation,Capital Call,102235.0
+ALPHA,2019-11-26,Gates Capital,Estimated NAV,3147581.027466
+ALPHA,2019-11-26,Stowy Family,Capital Call,199803.0
+ALPHA,2019-11-26,Gates Capital,Capital Call,59007.0
+ALPHA,2019-11-26,MSD,Estimated NAV,1055121.323708
+ALPHA,2019-11-26,Overwatch LLC,Estimated NAV,12193171.701502
+ALPHA,2019-11-26,Gibraltar Investments,Estimated  NAV,9205637.166958
+ALPHA,2019-11-26,Gates Invest,Estimated NAV,5352666.041058
+ALPHA,2019-11-26,Sapir LLC,Estimated NAV,1641958.464422
+ALPHA,2019-11-26,Third Gen Partners,Estimated NAV,942496.013874
+ALPHA,2019-11-26,Oak Family,Estimated NAV,5489001.942436
+ALPHA,2019-11-26,Gates Invest,Capital Call,100346.0
+ALPHA,2019-11-26,Third Gen Partners,Capital Call,17669.0
+ALPHA,2019-11-26,Bill and Melinda Foundation,Estimated NAV,5453436.05512
+ALPHA,2019-11-26,Stowy Family,Estimated NAV,10657910.899028
+ALPHA,2020-01-26,Gibraltar Investments,Estimated NAV,9201589.359426
+ALPHA,2020-01-26,Sapir LLC,Estimated NAV,1641236.479434
+ALPHA,2020-01-26,Third Gen Partners,Estimated NAV,942081.589278
+ALPHA,2020-01-26,Gates Capital,Estimated NAV,2544508.0
+ALPHA,2020-01-26,Bill and Melinda Foundation,Estimated NAV,5451038.12664
+ALPHA,2020-01-26,Oak Family,Estimated NAV,4437315.0
+ALPHA,2020-01-26,Jobs Capital,Estimated NAV,4135678.926516
+ALPHA,2020-01-26,Overwatch LLC,Estimated NAV,9856976.0
+ALPHA,2020-01-26,Gates Invest,Estimated NAV,5350312.422126
+ALPHA,2020-01-26,Stowy Family,Estimated NAV,10653224.512716
+ALPHA,2020-01-26,Jobs Capital,Estimated NAV,3344758.0
+ALPHA,2020-01-26,MSD,Estimated NAV,852961.0
+ALPHA,2020-01-26,Overwatch LLC,Estimated NAV,12187810.246194
+ALPHA,2020-01-26,MSD,Estimated NAV,1054657.376676
+ALPHA,2020-01-26,Sapir LLC,Estimated NAV,1327361.0
+ALPHA,2020-01-26,Oak Family,Estimated NAV,5486588.375292
+ALPHA,2020-01-26,Gibraltar Investments,Estimated NAV,7441847.0
+ALPHA,2020-01-26,Third Gen Partners,Estimated NAV,761915.0
+ALPHA,2020-01-26,Stowy Family,Estimated NAV,8615867.0
+ALPHA,2020-01-26,Gates Invest,Estimated NAV,4327101.0
+ALPHA,2020-01-26,Gates Capital,Estimated NAV,3146197.005702
+ALPHA,2020-01-26,Bill and Melinda Foundation,Estimated NAV,4408564.0
+ALPHA,2020-02-24,MSD,Estimated NAV,1059152.161832
+ALPHA,2020-02-24,Gates Capital,Estimated NAV,3159605.606364
+ALPHA,2020-02-24,Sapir LLC,Estimated NAV,1648231.173188
+ALPHA,2020-02-24,Stowy Family,Estimated NAV,10698626.893112
+ALPHA,2020-02-24,Overwatch LLC,Capital Call,51942.0
+ALPHA,2020-02-24,Oak Family,Estimated NAV,5509971.358744
+ALPHA,2020-02-24,Bill and Melinda Foundation,Estimated NAV,5474269.60048
+ALPHA,2020-02-24,Jobs Capital,Estimated NAV,4153304.544712
+ALPHA,2020-02-24,Bill and Melinda Foundation,Capital Call,23231.0
+ALPHA,2020-02-24,Sapir LLC,Capital Call,6995.0
+ALPHA,2020-02-24,Overwatch LLC,Estimated NAV,12239752.791508
+ALPHA,2020-02-24,Jobs Capital,Capital Call,17626.0
+ALPHA,2020-02-24,MSD,Capital Call,4495.0
+ALPHA,2020-02-24,Gibraltar Investments,Estimated NAV,9240805.097332
+ALPHA,2020-02-24,Gates Capital,Capital Call,13409.0
+ALPHA,2020-02-24,Gibraltar Investments,Capital Call,39216.0
+ALPHA,2020-02-24,Third Gen Partners,Capital Call,4015.0
+ALPHA,2020-02-24,Stowy Family,Capital Call,45402.0
+ALPHA,2020-02-24,Gates Invest,Capital Call,22802.0
+ALPHA,2020-02-24,Third Gen Partners,Estimated NAV,946096.593996
+ALPHA,2020-02-24,Oak Family,Capital Call,23383.0
+ALPHA,2020-02-24,Gates Invest,Estimated NAV,5373114.618732
+ALPHA,2020-03-26,Jobs Capital,Capital Call,28610.0
+ALPHA,2020-03-26,Third Gen Partners,Capital Call,6517.0
+ALPHA,2020-03-26,Stowy Family,Estimated NAV,10772323.773804
+ALPHA,2020-03-26,MSD,Estimated NAV,1066448.071044
+ALPHA,2020-03-26,Stowy Family,Capital Call,73697.0
+ALPHA,2020-03-26,Oak Family,Capital Call,37955.0
+ALPHA,2020-03-26,MSD,Capital Call,7296.0
+ALPHA,2020-03-26,Gates Invest,Estimated NAV,5410127.012094
+ALPHA,2020-03-26,Bill and Melinda Foundation,Estimated NAV,5511978.79416
+ALPHA,2020-03-26,Overwatch LLC,Estimated NAV,12324065.629986
+ALPHA,2020-03-26,Gibraltar Investments,Capital Call,63655.0
+ALPHA,2020-03-26,Gibraltar Investments,Estimated NAV,9304459.855794
+ALPHA,2020-03-26,Jobs Capital,Estimated NAV,4181914.346004
+ALPHA,2020-03-26,Gates Invest,Capital Call,37012.0
+ALPHA,2020-03-26,Bill and Melinda Foundation,Capital Call,37709.0
+ALPHA,2020-03-26,Third Gen Partners,Estimated NAV,952613.726382
+ALPHA,2020-03-26,Gates Capital,Capital Call,21765.0
+ALPHA,2020-03-26,Sapir LLC,Estimated NAV,1659584.919546
+ALPHA,2020-03-26,Sapir LLC,Capital Call,11354.0
+ALPHA,2020-03-26,Overwatch LLC,Capital Call,84313.0
+ALPHA,2020-03-26,Gates capital,Estimated NAV,3181370.369238
+ALPHA,2020-03-26,Oak Family,Estimated NAV,5547926.481948
+ALPHA,2020-04-10,Gates Capital,Capital Call,68424.0
+ALPHA,2020-04-10,Gates Invest,Estimated NAV,5526485.786094
+ALPHA,2020-04-10,Bill and Melinda Foundation,Estimated NAV,5630528.15416
+ALPHA,2020-04-10,Sapir LLC,Capital Call,35694.0
+ALPHA,2020-04-10,Third Gen Partners,Estimated NAV,973102.148382
+ALPHA,2020-04-10,MSD,Capital Call,22937.0
+ALPHA,2020-04-10,Gibraltar Investments,Capital Call,200116.0
+ALPHA,2020-04-10,Stowy Family,Capital Call,231687.0
+ALPHA,2020-04-10,Gibraltar Investments,Estimated NAV,9504576.329794
+ALPHA,2020-04-10,Overwatch LLC,Capital Call,265060.0
+ALPHA,2020-04-10,Gates Invest,Capital Call,116359.0
+ALPHA,2020-04-10,Third Gen Partners,Capital Call,20488.0
+ALPHA,2020-04-10,Oak Family,Estimated NAV,5667248.989948
+ALPHA,2020-04-10,Jobs Capital,Estimated NAV,4271857.230004
+ALPHA,2020-04-10,Jobs Capital,Capital Call,89943.0
+ALPHA,2020-04-10,Oak Family,Capital Call,119323.0
+ALPHA,2020-04-10,Stowy Family,Estimated NAV,11004010.457804
+ALPHA,2020-04-10,Bill and Melinda Foundation,Capital Call,118549.0
+ALPHA,2020-04-10,Overwatch LLC,Estimated NAV,12589126.535986
+ALPHA,2020-04-10,MSD,Estimated NAV,1089384.795044
+ALPHA,2020-04-10,Sapir LLC,Estimated NAV,1695278.585546
+ALPHA,2020-04-10,Gates Capital,Estimated NAV,3249793.967238
+ALPHA,2020-05-05,MSD,Estimated NAV,1139623.881368
+ALPHA,2020-05-05,Gates Capital,Estimated NAV,3296068.0
+ALPHA,2020-05-05,Jobs Capital,Estimated NAV,4468862.186488
+ALPHA,2020-05-05,MSD,Estimated NAV,1104896.0
+ALPHA,2020-05-05,Third Gen Partners,Estimated NAV,986958.0
+ALPHA,2020-05-05,Bill and Melinda Foundation,Estimated NAV,5890190.84752
+ALPHA,2020-05-05,Gibraltar Investments,Estimated NAV,9942898.245868
+ALPHA,2020-05-05,Oak Family,Estimated NAV,5747945.0
+ALPHA,2020-05-05,Gates Invest,Estimated NAV,5781350.364468
+ALPHA,2020-05-05,Jobs Capital,Estimated NAV,4332684.0
+ALPHA,2020-05-05,Overwatch LLC,Estimated NAV,13169698.449292
+ALPHA,2020-05-05,Stowy Family,Estimated NAV,11160696.0
+ALPHA,2020-05-05,Sapir LLC,Estimated NAV,1773459.635612
+ALPHA,2020-05-05,Gates Invest,Estimated NAV,5605177.0
+ALPHA,2020-05-05,Sapir LLC,Estimated NAV,1719418.0
+ALPHA,2020-05-05,Gates Capital,Estimated NAV,3399664.500036
+ALPHA,2020-05-05,Oak Family,Estimated NAV,5928605.135656
+ALPHA,2020-05-05,Third Gen Partners,Estimated NAV,1017978.635604
+ALPHA,2020-05-05,Overwatch LLC,Estimated NAV,12768381.0
+ALPHA,2020-05-05,Gibraltar Investments,Estimated NAV,9639911.0
+ALPHA,2020-05-05,Bill and Melinda Foundation,Estimated NAV,5710701.0
+ALPHA,2020-05-05,Stowy Family,Estimated NAV,11511481.678088
+ALPHA,2020-07-26,Bill and Melinda Foundation,Estimated NAV,5635827.0
+ALPHA,2020-07-26,Gates Invest,Estimated NAV,5648045.4807
+ALPHA,2020-07-26,Gates Capital,Estimated NAV,3252852.0
+ALPHA,2020-07-26,Overwatch LLC,Estimated NAV,12600975.0
+ALPHA,2020-07-26,Jobs Capital,Estimated NAV,4365820.3162
+ALPHA,2020-07-26,Gibraltar Investments,Estimated NAV,9713637.4657
+ALPHA,2020-07-26,Sapir LLC,Estimated NAV,1732567.6613
+ALPHA,2020-07-26,Third Gen Partners,Estimated NAV,974018.0
+ALPHA,2020-07-26,Stowy Family,Estimated NAV,11246052.9062
+ALPHA,2020-07-26,Sapir LLC,Estimated NAV,1696874.0
+ALPHA,2020-07-26,Stowy Family,Estimated NAV,11014366.0
+ALPHA,2020-07-26,Overwatch LLC,Estimated NAV,12866034.9433
+ALPHA,2020-07-26,Third Gen Partners,Estimated NAV,994506.3471
+ALPHA,2020-07-26,Gates Invest,Estimated NAV,5531687.0
+ALPHA,2020-07-26,MSD,Estimated NAV,1090410.0
+ALPHA,2020-07-26,Jobs Capital,Estimated NAV,4275877.0
+ALPHA,2020-07-26,Gibraltar Investments,Estimated NAV,9513521.0
+ALPHA,2020-07-26,MSD,Estimated NAV,1113346.7282
+ALPHA,2020-07-26,Oak Family,Estimated NAV,5791904.8894
+ALPHA,2020-07-26,Gates Capital,Estimated NAV,3321275.9139
+ALPHA,2020-07-26,Oak Family,Estimated NAV,5672582.0
+ALPHA,2020-07-26,Bill and Melinda Foundation,Estimated NAV,5754376.348
+ALPHA,2020-09-28,Gates Capital,Estimated NAV,3393993.3372
+ALPHA,2020-09-28,Gates Capital,Capital Call,72717.0
+ALPHA,2020-09-28,Sapir LLC,Capital Call,37934.0
+ALPHA,2020-09-28,Stowy Family,Capital Call,246226.0
+ALPHA,2020-09-28,Jobs Capital,Estimated NAV,4461407.4376
+ALPHA,2020-09-28,Gates Invest,Capital Call,123661.0
+ALPHA,2020-09-28,Third Gen Partners,Capital Call,21774.0
+ALPHA,2020-09-28,Jobs Capital,Capital Call,95587.0
+ALPHA,2020-09-28,MSD,Estimated NAV,1137722.8136
+ALPHA,2020-09-28,Stowy Family,Estimated NAV,11492278.7576
+ALPHA,2020-09-28,Gibraltar Investments,Estimated NAV,9926311.9636
+ALPHA,2020-09-28,Bill and Melinda Foundation,Estimated NAV,5880365.104
+ALPHA,2020-09-28,Oak Family,Estimated NAV,5918715.3112
+ALPHA,2020-09-28,Gibraltar Investments,Capital Call,212674.0
+ALPHA,2020-09-28,Overwatch LLC,Estimated NAV,13147729.3684
+ALPHA,2020-09-28,MSD,Capital Call,24376.0
+ALPHA,2020-09-28,Third Gen Partners,Estimated NAV,1016280.4908
+ALPHA,2020-09-28,Sapir LLC,Estimated NAV,1770501.2324
+ALPHA,2020-09-28,Oak Family,Capital Call,126810.0
+ALPHA,2020-09-28,Bill and Melinda Foundation,Capital Call,125989.0
+ALPHA,2020-09-28,Overwatch LLC,Capital Call,281695.0
+ALPHA,2020-09-28,Gates Invest,Estimated NAV,5771706.1836
+ALPHA,2020-10-20,Gates Capital,Estimated NAV,3548544.21657
+ALPHA,2020-10-20,Oak Family,Estimated NAV,6188233.41722
+ALPHA,2020-10-20,MSD,Estimated NAV,1189530.82966
+ALPHA,2020-10-20,Overwatch LLC,Estimated NAV,13464738.0
+ALPHA,2020-10-20,Third Gen Partners,Estimated NAV,1040784.0
+ALPHA,2020-10-20,Bill and Melinda Foundation,Estimated NAV,6022148.0
+ALPHA,2020-10-20,Sapir LLC,Estimated NAV,1813190.0
+ALPHA,2020-10-20,Sapir LLC,Estimated NAV,1851123.81919
+ALPHA,2020-10-20,Gibraltar Investments,Estimated NAV,10378322.35091
+ALPHA,2020-10-20,Gates Invest,Estimated NAV,6034529.99541
+ALPHA,2020-10-20,Stowy Family,Estimated NAV,11769372.0
+ALPHA,2020-10-20,Oak Family,Estimated NAV,6061423.0
+ALPHA,2020-10-20,Third Gen Partners,Estimated NAV,1062558.43773
+ALPHA,2020-10-20,Gates Invest,Estimated NAV,5910869.0
+ALPHA,2020-10-20,Overwatch LLC,Estimated NAV,13746432.11579
+ALPHA,2020-10-20,Stowy Family,Estimated NAV,12015597.93106
+ALPHA,2020-10-20,Jobs Capital,Estimated NAV,4664564.71406
+ALPHA,2020-10-20,Jobs Capital,Estimated NAV,4568978.0
+ALPHA,2020-10-20,Bill and Melinda Foundation,Estimated NAV,6148136.8724
+ALPHA,2020-10-20,Gibraltar Investments,Estimated NAV,10165648.0
+ALPHA,2020-10-20,MSD,Estimated NAV,1165155.0
+ALPHA,2020-10-20,Gates Capital,Estimated NAV,3475827.0
+ALPHA,2020-12-15,Jobs Capital,Estimated NAV,4608446.91006
+ALPHA,2020-12-15,Gates Capital,Distribution,-42691.0
+ALPHA,2020-12-15,Stowy Family,Estimated NAV,11871042.32706
+ALPHA,2020-12-15,Bill and Melinda Foundation,Distribution,-73966.0
+ALPHA,2020-12-15,Oak Family,Estimated NAV,6113784.86922
+ALPHA,2020-12-15,Gates Invest,Distribution,-72599.0
+ALPHA,2020-12-15,Stowy Family,Distribution,-144556.0
+ALPHA,2020-12-15,Jobs Capital,Distribution,-56118.0
+ALPHA,2020-12-15,Third Gen Partners,Distribution,-12783.0
+ALPHA,2020-12-15,MSD,Distribution,-14311.0
+ALPHA,2020-12-15,Third Gen Partners,Estimated NAV,1049775.15573
+ALPHA,2020-12-15,Gates Invest,Estimated NAV,5961930.60141
+ALPHA,2020-12-15,Gibraltar Investments,Estimated NAV,10253464.25691
+ALPHA,2020-12-15,Sapir LLC,Estimated NAV,1828853.57319
+ALPHA,2020-12-15,Gates Capital,Estimated NAV,3505852.87857
+ALPHA,2020-12-15,Sapir LLC,Distribution,-22270.0
+ALPHA,2020-12-15,Overwatch LLC,Estimated NAV,13581053.42979
+ALPHA,2020-12-15,MSD,Estimated NAV,1175219.98566
+ALPHA,2020-12-15,Bill and Melinda Foundation,Estimated NAV,6074170.7124
+ALPHA,2020-12-15,Oak Family,Distribution,-74449.0
+ALPHA,2020-12-15,Gibraltar Investments,Distribution,-124858.0
+ALPHA,2020-12-15,Overwatch LLC,Distribution,-165379.0
+ALPHA,2021-01-24,Stowy Family,Estimated NAV,12583621.0
+ALPHA,2021-01-24,Oak Family,Estimated NAV,6406326.229916
+ALPHA,2021-01-24,Third Gen Partners,Estimated NAV,1100006.339694
+ALPHA,2021-01-24,Gibraltar Investments,Estimated NAV,10868945.0
+ALPHA,2021-01-24,Third Gen Partners,Estimated NAV,1112790.0
+ALPHA,2021-01-24,MSD,Estimated NAV,1231453.638148
+ALPHA,2021-01-24,Bill and Melinda Foundation,Estimated NAV,6364816.55672
+ALPHA,2021-01-24,MSD,Estimated NAV,1245764.0
+ALPHA,2021-01-24,Gates Capital,Estimated NAV,3673606.077846
+ALPHA,2021-01-24,Sapir LLC,Estimated NAV,1916363.245882
+ALPHA,2021-01-24,Gibraltar Investments,Estimated NAV,10744087.078898
+ALPHA,2021-01-24,Gates Invest,Estimated NAV,6319805.0
+ALPHA,2021-01-24,Oak Family,Estimated NAV,6480775.0
+ALPHA,2021-01-24,Stowy Family,Estimated NAV,12439065.401068
+ALPHA,2021-01-24,Gates Capital,Estimated NAV,3716297.0
+ALPHA,2021-01-24,Jobs Capital,Estimated NAV,4828958.648468
+ALPHA,2021-01-24,Sapir LLC,Estimated NAV,1938633.0
+ALPHA,2021-01-24,Jobs Capital,Estimated NAV,4885076.0
+ALPHA,2021-01-24,Overwatch LLC,Estimated NAV,14230899.627362
+ALPHA,2021-01-24,Gates Invest,Estimated NAV,6247205.815998
+ALPHA,2021-01-24,Bill and Melinda Foundation,Estimated NAV,6438783.0
+ALPHA,2021-01-24,Overwatch LLC,Estimated NAV,14396280.0
+ALPHA,2021-04-29,Gibraltar Investments,Estimated NAV,11223241.0
+ALPHA,2021-04-29,Sapir LLC,Estimated NAV,2001827.300166
+ALPHA,2021-04-29,Stowy Family,Estimated NAV,12993810.0
+ALPHA,2021-04-29,Gates Capital,Estimated NAV,3837437.893098
+ALPHA,2021-04-29,Gates Invest,Estimated NAV,6525812.462274
+ALPHA,2021-04-29,Oak Family,Estimated NAV,6692029.0
+ALPHA,2021-04-29,Third Gen Partners,Estimated NAV,1149063.0
+ALPHA,2021-04-29,MSD,Estimated NAV,1286373.0
+ALPHA,2021-04-29,Overwatch LLC,Estimated NAV,14865555.077406
+ALPHA,2021-04-29,Gates Invest,Estimated NAV,6525812.0
+ALPHA,2021-04-29,Third Gen Partners,Estimated NAV,1149063.323922
+ALPHA,2021-04-29,Bill and Melinda Foundation,Estimated NAV,6648670.0
+ALPHA,2021-04-29,Overwatch LLC,Estimated NAV,14865555.0
+ALPHA,2021-04-29,Gibraltar Investments,Estimated NAV,11223241.144974
+ALPHA,2021-04-29,Jobs Capital,Estimated NAV,5044315.723884
+ALPHA,2021-04-29,Oak Family,Estimated NAV,6692029.169508
+ALPHA,2021-04-29,Gates Capital,Estimated NAV,3837438.0
+ALPHA,2021-04-29,Bill and Melinda Foundation,Estimated NAV,6648668.28936
+ALPHA,2021-04-29,MSD,Estimated NAV,1286372.777724
+ALPHA,2021-04-29,Sapir LLC,Estimated NAV,2001827.0
+ALPHA,2021-04-29,Stowy Family,Estimated NAV,12993810.417684
+ALPHA,2021-04-29,Jobs Capital,Estimated NAV,5044316.0
+ALPHA,2021-05-24,Stowy Family,Distribution,-814073.0
+ALPHA,2021-05-24,Jobs Capital,Estimated NAV,4728285.195484
+ALPHA,2021-05-24,Gibraltar Investments,Distribution,-703145.0
+ALPHA,2021-05-24,MSD,Estimated NAV,1205780.465324
+ALPHA,2021-05-24,Stowy Family,Estimated NAV,12179737.509284
+ALPHA,2021-05-24,Bill and Melinda Foundation,Estimated NAV,6232123.75336
+ALPHA,2021-05-24,Gates Invest,Distribution,-408848.0
+ALPHA,2021-05-24,Oak Family,Distribution,-419261.0
+ALPHA,2021-05-24,Gates Capital,Estimated NAV,3597019.253298
+ALPHA,2021-05-24,Overwatch LLC,Estimated NAV,13934215.826806
+ALPHA,2021-05-24,Oak family,Estimated NAV,6272768.038708
+ALPHA,2021-05-24,Gibraltar Investments,Estimated NAV,10520095.857574
+ALPHA,2021-05-24,Gates capital,Distribution,-240419.0
+ALPHA,2021-05-24,Third Gen Partners,Estimated NAV,1077073.561722
+ALPHA,2021-05-24,Bill and Melinda Foundation,Distribution,-416545.0
+ALPHA,2021-05-24,Gates Invest,Estimated NAV,6116964.944874
+ALPHA,2021-05-24,Overwatch LLC,Distribution,-931338.0
+ALPHA,2021-05-24,Sapir LLC,Distribution,-125416.0
+ALPHA,2021-05-24,MSD,Distribution,-80592.0
+ALPHA,2021-05-24,Third Gen Partners,Distribution,-71990.0
+ALPHA,2021-05-24,Jobs Capital,Distribution,-316031.0
+ALPHA,2021-05-24,Sapir LLC,Estimated NAV,1876411.173566
+ALPHA,2021-07-13,Overwatch LLC,Estimated NAV,14488193.974001
+ALPHA,2021-07-13,Third Gen Partners,Estimated NAV,1119894.429687
+ALPHA,2021-07-13,Bill and Melinda Foundation,Capital Call,247769.0
+ALPHA,2021-07-13,Jobs Capital,Estimated NAV,4916266.112714
+ALPHA,2021-07-13,Bill and Melinda Foundation,Estimated NAV,6479892.29756
+ALPHA,2021-07-13,Gates Capital,Capital Call,143006.0
+ALPHA,2021-07-13,Gates Invest,Capital Call,243190.0
+ALPHA,2021-07-13,Jobs Capital,Capital Call,187981.0
+ALPHA,2021-07-13,MSD,Capital Call,47938.0
+ALPHA,2021-07-13,Gates Capital,Estimated NAV,3740024.793483
+ALPHA,2021-07-13,MSD,Estimated NAV,1253718.292354
+ALPHA,2021-07-13,Gibraltar Investments,Capital Call,418244.0
+ALPHA,2021-07-13,Third Gen Partners,Capital Call,42821.0
+ALPHA,2021-07-13,Gibraltar Investments,Estimated NAV,10938339.932729
+ALPHA,2021-07-13,Gates Invest,Estimated NAV,6360155.157279
+ALPHA,2021-07-13,Oak Family,Capital Call,249384.0
+ALPHA,2021-07-13,Stowy Family,Estimated NAV,12663963.425014
+ALPHA,2021-07-13,Overwatch LLC,Capital Call,553977.0
+ALPHA,2021-07-13,Stowy Family,Capital Call,484226.0
+ALPHA,2021-07-13,Sapir LLC,Capital Call,74600.0
+ALPHA,2021-07-13,Sapir LLC,Estimated NAV,1951011.050461
+ALPHA,2021-07-13,Oak Family,Estimated NAV,6522152.464718
+ALPHA,2021-07-26,Stowy Family,Capital Call,71934.0
+ALPHA,2021-07-26,Overwatch LLC,Capital Call,82296.0
+ALPHA,2021-07-26,Oak Family,Estimated NAV,6559199.459722
+ALPHA,2021-07-26,Oak Family,Capital Call,37047.0
+ALPHA,2021-07-26,Gates Invest,Estimated NAV,6396281.978541
+ALPHA,2021-07-26,Jobs Capital,Estimated NAV,4944191.385406
+ALPHA,2021-07-26,Gibraltar Investments,Estimated NAV,11000471.664091
+ALPHA,2021-07-26,Third Gen Partners,Capital Call,6361.0
+ALPHA,2021-07-26,Gates Invest,Capital Call,36127.0
+ALPHA,2021-07-26,Gates Capital,Estimated NAV,3761268.804657
+ALPHA,2021-07-26,Bill and Melinda Foundation,Capital Call,36807.0
+ALPHA,2021-07-26,Gates Capital,Capital Call,21244.0
+ALPHA,2021-07-26,Sapir LLC,Capital Call,11082.0
+ALPHA,2021-07-26,MSD,Estimated NAV,1260839.636966
+ALPHA,2021-07-26,Jobs Capital,Capital Call,27925.0
+ALPHA,2021-07-26,MSD,Capital Call,7121.0
+ALPHA,2021-07-26,Stowy Family,Estimated NAV,12735897.007106
+ALPHA,2021-07-26,Bill and Melinda Foundation,Estimated NAV,6516699.24724
+ALPHA,2021-07-26,Overwatch LLC,Estimated NAV,14570489.512579
+ALPHA,2021-07-26,Sapir LLC,Estimated NAV ,1962093.142919
+ALPHA,2021-07-26,Third Gen Partners,Estimated NAV,1126255.630773
+ALPHA,2021-07-26,Gibraltar Investments,Capital Call,62132.0
+ALPHA,2021-08-01,MSD,Estimated NAV,1290222.0
+ALPHA,2021-08-01,Sapir LLC,Estimated NAV,2007817.0
+ALPHA,2021-08-01,Stowy Family,Estimated NAV,13032687.0
+ALPHA,2021-08-01,Oak Family,Estimated NAV,6712051.0
+ALPHA,2021-08-01,Stowy Family,Estimated NAV,12774774.053538
+ALPHA,2021-08-01,Gibraltar Investments,Estimated NAV,11256821.0
+ALPHA,2021-08-01,Gates Invest,Estimated NAV,6415806.991293
+ALPHA,2021-08-01,Sapir LLC,Estimated NAV,1968082.543287
+ALPHA,2021-08-01,Gates Invest,Estimated NAV,6545337.0
+ALPHA,2021-08-01,Gates Capital,Estimated NAV,3848919.0
+ALPHA,2021-08-01,Third Gen Partners,Estimated NAV,1152501.0
+ALPHA,2021-08-01,Bill and Melinda Foundation,Estimated NAV,6536591.84052
+ALPHA,2021-08-01,Gates Capital,Estimated NAV,3772750.290561
+ALPHA,2021-08-01,Jobs Capital,Estimated NAV,4959283.809438
+ALPHA,2021-08-01,MSD,Estimated NAV,1264688.421318
+ALPHA,2021-08-01,Oak Family,Estimated NAV,6579221.787306
+ALPHA,2021-08-01,Bill and Melinda Foundation,Estimated NAV,6668561.0
+ALPHA,2021-08-01,Third Gen Partners,Estimated NAV,1129693.589829
+ALPHA,2021-08-01,Jobs Capital,Estimated NAV,5059408.0
+ALPHA,2021-08-01,Gibraltar Investments,Estimated NAV,11034051.226443
+ALPHA,2021-08-01,Overwatch LLC,Estimated NAV,14614966.756467
+ALPHA,2021-08-01,Overwatch LLC,Estimated NAV,14910033.0
+ALPHA,2021-09-01,Third Gen Partners,Estimated NAV,1184779.188006
+ALPHA,2021-09-01,Overwatch LLC,Estimated NAV,15327615.029738
+ALPHA,2021-09-01,Bill and Melinda Foundation,Estimated NAV,6855326.11928
+ALPHA,2021-09-01,Jobs Capital,Capital Call,241822.0
+ALPHA,2021-09-01,Jobs Capital,Estimated NAV,5201106.120932
+ALPHA,2021-09-01,Gates Invest,Estimated NAV,6728651.614902
+ALPHA,2021-09-01,Oak Family,Capital Call,320813.0
+ALPHA,2021-09-01,Third Gen Partners,Capital Call,55086.0
+ALPHA,2021-09-01,Sapir LLC,Capital Call,95967.0
+ALPHA,2021-09-01,Gates Invest,Capital Call,312845.0
+ALPHA,2021-09-01,Gibraltar Investments,Capital Call,538037.0
+ALPHA,2021-09-01,Gibraltar Investments,Estimated NAV,11572088.547002
+ALPHA,2021-09-01,Stowy Family,Capital Call,622918.0
+ALPHA,2021-09-01,MSD,Estimated NAV,1326356.575252
+ALPHA,2021-09-01,MSD,Capital Call,61668.0
+ALPHA,2021-09-01,Gates Capital,Capital Call,183965.0
+ALPHA,2021-09-01,Stowy Family,Estimated NAV,13397691.698332
+ALPHA,2021-09-01,Bill and Melinda Foundation,Capital Call,318734.0
+ALPHA,2021-09-01,Overwatch LLC,Capital Call,712648.0
+ALPHA,2021-09-01,Sapir LLC,Estimated NAV,2064049.277218
+ALPHA,2021-09-01,2,Estimated NAV,3956715.401454
+ALPHA,2021-09-01,Oak Family,Estimated NAV,6900034.767884
+ALPHA,2021-10-28,Stowy Family,Estimated NAV,12508806.0
+ALPHA,2021-10-28,Overwatch LLC,Estimated NAV,15659608.278193
+ALPHA,2021-10-28,Gates Invest,Estimated NAV,6874392.938847
+ALPHA,2021-10-28,Gates Capital,Estimated NAV,3694202.0
+ALPHA,2021-10-28,Gates Invest,Estimated NAV,6282231.0
+ALPHA,2021-10-28,Gates Capital,Estimated NAV,4042417.110219
+ALPHA,2021-10-28,Overwatch LLC,Estimated NAV,14310687.0
+ALPHA,2021-10-28,Oak Family,Estimated NAV,7049488.218574
+ALPHA,2021-10-28,Third Gen Partners,Estimated NAV,1106174.0
+ALPHA,2021-10-28,Bill and Melinda Foundation,Estimated NAV,6400501.0
+ALPHA,2021-10-28,Stowy Family,Estimated NAV,13687883.171702
+ALPHA,2021-10-28,MSD,Estimated NAV,1238358.0
+ALPHA,2021-10-28,Jobs Capital,Estimated NAV,5313761.097802
+ALPHA,2021-10-28,Gibraltar Investments,Estimated NAV,11822737.800697
+ALPHA,2021-10-28,MSD,Estimated NAV,1355085.208322
+ALPHA,2021-10-28,Sapir LLC,Estimated NAV,2108756.194973
+ALPHA,2021-10-28,Oak Family,Estimated NAV,6442244.0
+ALPHA,2021-10-28,Gibraltar Investments,Estimated NAV,10804325.0
+ALPHA,2021-10-28,Bill and Melinda Foundation,Estimated NAV,7003811.18908
+ALPHA,2021-10-28,Jobs Capital,Estimated NAV,4856033.0
+ALPHA,2021-10-28,Third Gen Partners,Estimated NAV,1210441.281591
+ALPHA,2021-10-28,Sapir LLC,Estimated NAV,1927107.0
+ALPHA,2021-12-22,Oak Family,Distribution,-86692.0
+ALPHA,2021-12-22,Gibraltar Investments,Distribution,-145391.0
+ALPHA,2021-12-22,MSD,Distribution,-16664.0
+ALPHA,2021-12-22,Gates Capital,Distribution,-49712.0
+ALPHA,2021-12-22,Gates Invest,Distribution,-84538.0
+ALPHA,2021-12-22,Bill and Melinda Foundation,Estimated NAV,6917681.15708
+ALPHA,2021-12-22,Third Gen Partners,Distribution,-14886.0
+ALPHA,2021-12-22,Gates Invest,Estimated NAV,6789854.440047
+ALPHA,2021-12-22,Oak Family,Estimated NAV,6962796.468974
+ALPHA,2021-12-22,Jobs Capital,Estimated NAV,5248414.617002
+ALPHA,2021-12-22,Sapir LLC,Estimated NAV,2082823.565773
+ALPHA,2021-12-22,Sapir LLC,Distribution,-25933.0
+ALPHA,2021-12-22,Gibraltar Investments,Estimated NAV,11677346.561897
+ALPHA,2021-12-22,Overwatch LLC,Distribution,-192576.0
+ALPHA,2021-12-22,Bill and Melinda Foundation,Distribution,-86130.0
+ALPHA,2021-12-22,Stowy Family,Estimated NAV,13519555.130902
+ALPHA,2021-12-22,Gates Capital,Estimated NAV,3992705.102619
+ALPHA,2021-12-22,Jobs Capital,Distribution,-65346.0
+ALPHA,2021-12-22,Third Gen Partners,Estimated NAV,1195555.765191
+ALPHA,2021-12-22,Stowy Family,Distribution,-168328.0
+ALPHA,2021-12-22,Overwatch LLC,Estimated NAV,15467032.760993
+ALPHA,2021-12-22,MSD,Estimated NAV,1338420.919522
+ALPHA,2022-01-30,MSD,Estimated NAV,1364363.465798
+ALPHA,2022-01-30,Oak Family,Estimated NAV,7184448.0
+ALPHA,2022-01-30,Oak Family,Estimated NAV,7097756.007466
+ALPHA,2022-01-30,Gates capital,Estimated NAV,4119808.0
+ALPHA,2022-01-30,Stowy Family,Estimated NAV,13949932.0
+ALPHA,2022-01-30,Third Gen Partners,Estimated NAV,1233615.0
+ALPHA,2022-01-30,Sapir LLC,Estimated NAV,2123194.831607
+ALPHA,2022-01-30,Sapir LLC,Estimated NAV,2149127.0
+ALPHA,2022-01-30,Overwatch LLC,Estimated NAV,15766829.489587
+ALPHA,2022-01-30,Gibraltar Investments,Estimated NAV,12049079.0
+ALPHA,2022-01-30,Overwatch LLC,Estimated NAV,15959405.0
+ALPHA,2022-01-30,Jobs Capital,Estimated NAV,5350144.377118
+ALPHA,2022-01-30,MSD,Estimated NAV,1381028.0
+ALPHA,2022-01-30,Bill and Melinda Foundation,Estimated NAV,7137896.0
+ALPHA,2022-01-30,Third Gen Partners,Estimated NAV,1218729.163269
+ALPHA,2022-01-30,Gates Capital,Estimated NAV,4070095.507521
+ALPHA,2022-01-30,Gates Invest,Estimated NAV,6921461.851773
+ALPHA,2022-01-30,Gates Invest,Estimated NAV,7006000.0
+ALPHA,2022-01-30,Gibraltar Investments,Estimated NAV,11903687.990923
+ALPHA,2022-01-30,Jobs Capital,Estimated NAV,5415491.0
+ALPHA,2022-01-30,Stowy Family,Estimated NAV,13781603.997218
+ALPHA,2022-01-30,Bill and Melinda Foundation,Estimated NAV,7051766.22772
+ALPHA,2022-05-01,Third Gen Partners,Estimated NAV,1249637.12064
+ALPHA,2022-05-01,Overwatch LLC,Estimated NAV,16166689.03872
+ALPHA,2022-05-01,Third Gen Partners,Estimated NAV,1249637.0
+ALPHA,2022-05-01,Gates Capital,Estimated NAV,4173316.42176
+ALPHA,2022-05-01,Gates Capital,Estimated NAV,4173316.0
+ALPHA,2022-05-01,Overwatch LLC,Estimated NAV,16166689.0
+ALPHA,2022-05-01,Gates Invest,Estimated NAV,7096996.0
+ALPHA,2022-05-01,Jobs Capital,Estimated NAV,5485828.0
+ALPHA,2022-05-01,MSD,Estimated NAV,1398965.0
+ALPHA,2022-05-01,Oak Family,Estimated NAV,7277761.0
+ALPHA,2022-05-01,Gibraltar Investments,Estimated NAV,12205575.0
+ALPHA,2022-05-01,Bill and Melinda Foundation,Estimated NAV,7230604.7232
+ALPHA,2022-05-01,Stowy Family,Estimated NAV,14131117.0
+ALPHA,2022-05-01,Bill and Melinda Foundation,Estimated NAV,7230605.0
+ALPHA,2022-05-01,Gates Invest,Estimated NAV,7096995.72288
+ALPHA,2022-05-01,Gibraltar Investments,Estimated NAV,12205575.14688
+ALPHA,2022-05-01,Sapir LLC,Estimated NAV,2177041.0
+ALPHA,2022-05-01,MSD,Estimated NAV,1398964.82688
+ALPHA,2022-05-01,Sapir LLC,Estimated NAV,2177040.76992
+ALPHA,2022-05-01,Stowy Family,Estimated NAV,14131116.62208
+ALPHA,2022-05-01,Oak Family,Estimated NAV,7277760.84096
+ALPHA,2022-05-01,Jobs Capital,Estimated NAV,5485828.36608
+ALPHA,2022-05-22,Gibraltar Investments,Distribution,-174656.0
+ALPHA,2022-05-22,Jobs Capital,Estimated NAV,5407328.70348
+ALPHA,2022-05-22,Gates Invest,Distribution,-101555.0
+ALPHA,2022-05-22,Bill and Melinda Foundation,Distribution,-103467.0
+ALPHA,2022-05-22,Jobs Capital,Distribution,-78500.0
+ALPHA,2022-05-22,Gates Capital,Distribution,-59718.0
+ALPHA,2022-05-22,Oak Family,Estimated NAV,7173619.45476
+ALPHA,2022-05-22,Sapir LLC,Distribution,-31152.0
+ALPHA,2022-05-22,Oak Family,Distribution,-104141.0
+ALPHA,2022-05-22,Gates Capital,Estimated NAV,4113598.19706
+ALPHA,2022-05-22,Third Gen Partners,Distribution,-17882.0
+ALPHA,2022-05-22,Overwatch LLC,Distribution,-231337.0
+ALPHA,2022-05-22,MSD,Estimated NAV,1378946.28828
+ALPHA,2022-05-22,MSD,Distribution,-20019.0
+ALPHA,2022-05-22,Gates Invest,Estimated NAV,6995441.00178
+ALPHA,2022-05-22,Bill and Melinda Foundation,Estimated NAV,7127138.1192
+ALPHA,2022-05-22,Gibraltar Investments,Estimated NAV,12030919.02078
+ALPHA,2022-05-22,Stowy Family,Estimated NAV,13928906.88948
+ALPHA,2022-05-22,Overwatch LLC,Estimated NAV,15935351.20782
+ALPHA,2022-05-22,Stowy Family,Distribution,-202210.0
+ALPHA,2022-05-22,Third Gen Partners,Estimated NAV,1231755.39234
+ALPHA,2022-05-22,Sapir LLC,Estimated NAV,2145888.32502
+ATHENA I,2019-01-01,Gibraltar Investments,Commitment,7164450.000000001
+ATHENA I,2019-01-01,Stowy Family,Commitment,8270100.000000001
+ATHENA I,2019-01-01,Overwatch LLC,Commitment,8962650.0
+ATHENA I,2019-01-01,Third Gen Partners,Commitment,805950.0
+ATHENA I,2019-01-01,Bill and Melinda Foundation,Commitment,4228200.0
+ATHENA I,2019-01-01,Jobs Capital,Commitment,2417850.0
+ATHENA I,2019-01-01,Gates Invest,Commitment,6386850.0
+ATHENA I,2019-01-01,Gates Capital,Commitment,2263950.0
+ATHENA I,2019-03-20,Overwatch LLC,Capital Call,527072.13
+ATHENA I,2019-03-20,Gates Capital,Capital Call,133137.54
+ATHENA I,2019-03-20,Stowy Family,Estimated NAV,486344.84302800003
+ATHENA I,2019-03-20,Overwatch LLC,Other Fees,123236.37000000001
+ATHENA I,2019-03-20,Gibraltar Investments,Estimated NAV,421324.205346
+ATHENA I,2019-03-20,Overwatch LLC,Estimated NAV,527072.055642
+ATHENA I,2019-03-20,Gates Capital,Estimated NAV,133137.496206
+ATHENA I,2019-03-20,Stowy Family,Other Fees,113713.74
+ATHENA I,2019-03-20,Jobs Capital,Other Fees,33245.37
+ATHENA I,2019-03-20,Gibraltar Investments,Other Fees,98511.12000000001
+ATHENA I,2019-03-20,Bill and Melinda Foundation,Other Fees,58138.020000000004
+ATHENA I,2019-03-20,Gibraltar Investments,Capital Call,421324.2
+ATHENA I,2019-03-20,Third Gen Partners,Estimated NAV,47395.995966
+ATHENA I,2019-03-20,Third Gen Partners,Capital Call,47396.07
+ATHENA I,2019-03-20,Bill and Melinda Foundation,Capital Call,248650.29
+ATHENA I,2019-03-20,Gates Invest,Other Fees,87819.12000000001
+ATHENA I,2019-03-20,Jobs Capital,Capital Call,142187.94
+ATHENA I,2019-03-20,Third Gen Partners,Other Fees,11081.880000000001
+ATHENA I,2019-03-20,Gates Invest,Estimated NAV,375595.405218
+ATHENA I,2019-03-20,Gates Invest,Capital Call,375595.38
+ATHENA I,2019-03-20,Stowy Family,Capital Call,486344.79000000004
+ATHENA I,2019-03-20,Gates Capital,Other Fees,31129.38
+ATHENA I,2019-03-20,Jobs Capital,Estimated NAV,142187.98789800002
+ATHENA I,2019-03-20,Bill and Melinda Foundation,Estimated NAV,248650.350696
+ATHENA I,2019-12-11,Gibraltar Investments,Estimated NAV,353589.57
+ATHENA I,2019-12-11,Gibraltar Investments,Capital Call,617379.8400000001
+ATHENA I,2019-12-11,Overwatch LLC,Estimated NAV,442336.41000000003
+ATHENA I,2019-12-11,Bill and Melinda Foundation,Estimated NAV,208675.71000000002
+ATHENA I,2019-12-11,Overwatch LLC,Estimated NAV,442336.653
+ATHENA I,2019-12-11,Overwatch LLC,Capital Call,772776.18
+ATHENA I,2019-12-11,Stowy Family,Capital Call,712882.62
+ATHENA I,2019-12-11,Gibraltar Investments,Estimated NAV,353589.489
+ATHENA I,2019-12-11,Gates Capital,Estimated NAV,306885.969
+ATHENA I,2019-12-11,Gibraltar Investments,Estimated NAV,971165.0790000001
+ATHENA I,2019-12-11,Stowy Family,Estimated NAV,1121039.6220000002
+ATHENA I,2019-12-11,Third Gen Partners,Estimated NAV,109249.20900000002
+ATHENA I,2019-12-11,Gates Invest,Estimated NAV,865758.807
+ATHENA I,2019-12-11,Bill and Melinda Foundation,Estimated NAV,208675.764
+ATHENA I,2019-12-11,Stowy Family,Estimated NAV,408157.00200000004
+ATHENA I,2019-12-11,Stowy Family,Estimated NAV,408157.11000000004
+ATHENA I,2019-12-11,Third Gen Partners,Estimated NAV,39776.4
+ATHENA I,2019-12-11,Jobs Capital,Estimated NAV,119328.957
+ATHENA I,2019-12-11,Overwatch LLC,Estimated NAV,1214917.083
+ATHENA I,2019-12-11,Bill and Melinda Foundation,Estimated NAV,573146.604
+ATHENA I,2019-12-11,Gates Invest,Estimated NAV,315212.31
+ATHENA I,2019-12-11,Third Gen Partners,Capital Call,69277.14
+ATHENA I,2019-12-11,Jobs Capital,Estimated NAV,119328.93000000001
+ATHENA I,2019-12-11,Bill and Melinda Foundation,Capital Call,364470.84
+ATHENA I,2019-12-11,Jobs Capital,Estimated NAV,327747.62700000004
+ATHENA I,2019-12-11,Gates Invest,Capital Call,550350.7200000001
+ATHENA I,2019-12-11,Gates Invest,Estimated NAV,315212.33700000006
+ATHENA I,2019-12-11,Third Gen Partners,Estimated NAV,39776.319
+ATHENA I,2019-12-11,Gates Capital,Capital Call,195348.24000000002
+ATHENA I,2019-12-11,Gates Capital,Estimated NAV,111733.479
+ATHENA I,2019-12-11,Jobs Capital,Capital Call,208614.42
+ATHENA I,2019-12-11,Gates Capital,Estimated NAV,111733.56000000001
+ATHENA I,2020-03-12,Third Gen Partners,Estimated NAV,183933.90899999999
+ATHENA I,2020-03-12,Stowy Family,Estimated NAV,1887402.222
+ATHENA I,2020-03-12,Gibraltar Investments,Capital Call,663905.7000000001
+ATHENA I,2020-03-12,Third Gen Partners,Capital Call,74684.70000000001
+ATHENA I,2020-03-12,Jobs Capital,Estimated NAV,551801.7270000001
+ATHENA I,2020-03-12,Gates Capital,Estimated NAV,516678.669
+ATHENA I,2020-03-12,Gates Capital,Capital Call,209792.7
+ATHENA I,2020-03-12,Stowy Family,Capital Call,766362.6000000001
+ATHENA I,2020-03-12,Overwatch LLC,Capital Call,830538.9
+ATHENA I,2020-03-12,Overwatch LLC,Estimated NAV,2045455.9830000002
+ATHENA I,2020-03-12,Gates Invest,Estimated NAV,1457606.907
+ATHENA I,2020-03-12,Bill and Melinda Foundation,Capital Call,391813.2
+ATHENA I,2020-03-12,Jobs Capital,Capital Call,224054.1
+ATHENA I,2020-03-12,Bill and Melinda Foundation,Estimated NAV,964959.8040000001
+ATHENA I,2020-03-12,Gibraltar Investments,Estimated NAV,1635070.779
+ATHENA I,2020-03-12,Gates Invest,Capital Call,591848.1000000001
+ATHENA I,2020-04-01,Third Gen Partners,Estimated NAV,127442.16
+ATHENA I,2020-04-01,Gibraltar Investments,Estimated NAV,1132890.57
+ATHENA I,2020-04-01,Gibraltar Investments,Estimated NAV,1796796.297
+ATHENA I,2020-04-01,Third Gen Partners,Estimated NAV,202126.88700000002
+ATHENA I,2020-04-01,Overwatch LLC,Estimated NAV,1417234.05
+ATHENA I,2020-04-01,Overwatch LLC,Estimated NAV,2247772.8690000004
+ATHENA I,2020-04-01,Bill and Melinda Foundation,Estimated NAV,668591.28
+ATHENA I,2020-04-01,Stowy Family,Estimated NAV,2074085.946
+ATHENA I,2020-04-01,Jobs Capital,Estimated NAV,606380.661
+ATHENA I,2020-04-01,Stowy Family,Estimated NAV,1307723.4000000001
+ATHENA I,2020-04-01,Gates Invest,Estimated NAV,1009931.2200000001
+ATHENA I,2020-04-01,Gates Capital,Estimated NAV,357990.84
+ATHENA I,2020-04-01,Jobs Capital,Estimated NAV,382326.48000000004
+ATHENA I,2020-04-01,Gates Invest,Estimated NAV,1601779.401
+ATHENA I,2020-04-01,Bill and Melinda Foundation,Estimated NAV,1060404.3720000002
+ATHENA I,2020-04-01,Gates Capital,Estimated NAV,567783.567
+ATHENA I,2020-05-24,Gates Invest,Estimated NAV,2324356.144119
+ATHENA I,2020-05-24,Third Gen Partners,Capital Call,91181.16
+ATHENA I,2020-05-24,Stowy Family,Estimated NAV,3009724.3159740004
+ATHENA I,2020-05-24,Gibraltar Investments,Capital Call,810550.53
+ATHENA I,2020-05-24,Jobs Capital,Estimated NAV,879924.298059
+ATHENA I,2020-05-24,Stowy Family,Capital Call,935638.29
+ATHENA I,2020-05-24,Gates Capital,Estimated NAV,823915.7162730001
+ATHENA I,2020-05-24,Overwatch LLC,Estimated NAV,3261762.934011
+ATHENA I,2020-05-24,Overwatch LLC,Capital Call,1013990.1300000001
+ATHENA I,2020-05-24,Gates Invest,Capital Call,722576.7000000001
+ATHENA I,2020-05-24,Gibraltar Investments,Estimated NAV,2607346.873143
+ATHENA I,2020-05-24,Jobs Capital,Capital Call,273543.75
+ATHENA I,2020-05-24,Bill and Melinda Foundation,Estimated NAV,1538762.089068
+ATHENA I,2020-05-24,Gates Capital,Capital Call,256132.26
+ATHENA I,2020-05-24,Bill and Melinda Foundation,Capital Call,478357.65
+ATHENA I,2020-05-24,Third Gen Partners,Estimated NAV,293308.099353
+ATHENA I,2020-12-02,Gates Invest,Estimated NAV,2526010.2881190004
+ATHENA I,2020-12-02,Bill and Melinda Foundation,Estimated NAV,1672260.457068
+ATHENA I,2020-12-02,Stowy Family,Estimated NAV,3270838.939974
+ATHENA I,2020-12-02,Gates Capital,Estimated NAV,895396.1642730001
+ATHENA I,2020-12-02,Third Gen Partners,Capital Call,25446.420000000002
+ATHENA I,2020-12-02,Gates Capital,Capital Call,71480.34000000001
+ATHENA I,2020-12-02,Stowy Family,Capital Call,261114.57
+ATHENA I,2020-12-02,Overwatch LLC,Estimated NAV,3544743.670011
+ATHENA I,2020-12-02,Gates Invest,Capital Call,201654.09000000003
+ATHENA I,2020-12-02,Bill and Melinda Foundation,Capital Call,133498.26
+ATHENA I,2020-12-02,Jobs Capital,Capital Call,76339.53
+ATHENA I,2020-12-02,Gibraltar Investments,Capital Call,226205.46000000002
+ATHENA I,2020-12-02,Jobs Capital,Estimated NAV,956263.8820590001
+ATHENA I,2020-12-02,Third Gen Partners,Estimated NAV,318754.62735300005
+ATHENA I,2020-12-02,Overwatch LLC,Capital Call,282981.33
+ATHENA I,2020-12-02,Gibraltar Investments,Estimated NAV,2833552.441143
+ATHENA I,2020-12-03,Gates Capital,Estimated NAV,791175.06
+ATHENA I,2020-12-03,Gibraltar Investments,Estimated NAV,2729942.0280000004
+ATHENA I,2020-12-03,Bill and Melinda Foundation,Estimated NAV,1477614.9600000002
+ATHENA I,2020-12-03,Bill and Melinda Foundation,Estimated NAV,1611113.3280000002
+ATHENA I,2020-12-03,Gates Invest,Estimated NAV,2231991.18
+ATHENA I,2020-12-03,Gibraltar Investments,Estimated NAV,2503736.46
+ATHENA I,2020-12-03,Overwatch LLC,Estimated NAV,3132147.4200000004
+ATHENA I,2020-12-03,Jobs Capital,Estimated NAV,921297.5640000001
+ATHENA I,2020-12-03,Stowy Family,Estimated NAV,3151238.904
+ATHENA I,2020-12-03,Overwatch LLC,Estimated NAV,3415128.1560000004
+ATHENA I,2020-12-03,Gates Invest,Estimated NAV,2433645.324
+ATHENA I,2020-12-03,Stowy Family,Estimated NAV,2890124.2800000003
+ATHENA I,2020-12-03,Third Gen Partners,Estimated NAV,281652.66000000003
+ATHENA I,2020-12-03,Gates Capital,Estimated NAV,862655.508
+ATHENA I,2020-12-03,Third Gen Partners,Estimated NAV,307099.188
+ATHENA I,2020-12-03,Jobs Capital,Estimated NAV,844957.9800000001
+ATHENA I,2021-03-25,Gates Invest,Estimated NAV,2976612.8400000003
+ATHENA I,2021-03-25,Gibraltar Investments,Estimated NAV,3339015.804
+ATHENA I,2021-03-25,Overwatch LLC,Estimated NAV,4177072.8000000003
+ATHENA I,2021-03-25,Gibraltar Investments,Estimated NAV,3339015.75
+ATHENA I,2021-03-25,Bill and Melinda Foundation,Estimated NAV,1970566.7040000001
+ATHENA I,2021-03-25,Third Gen Partners,Estimated NAV,375615.684
+ATHENA I,2021-03-25,Stowy Family,Estimated NAV,3854307.6720000003
+ATHENA I,2021-03-25,Jobs Capital,Estimated NAV,1126847.1600000001
+ATHENA I,2021-03-25,Jobs Capital,Estimated NAV,1126847.0520000001
+ATHENA I,2021-03-25,Overwatch LLC,Estimated NAV,4177072.9080000003
+ATHENA I,2021-03-25,Gates Invest,Estimated NAV,2976612.7320000003
+ATHENA I,2021-03-25,Gates Capital,Estimated NAV,1055121.4440000001
+ATHENA I,2021-03-25,Bill and Melinda Foundation,Estimated NAV,1970566.6500000001
+ATHENA I,2021-03-25,Third Gen Partners,Estimated NAV,375615.63
+ATHENA I,2021-03-25,Stowy Family,Estimated NAV,3854307.7800000003
+ATHENA I,2021-03-25,Gates Capital,Estimated NAV,1055121.3900000001
+ATHENA I,2021-04-13,Gates Invest,Estimated NAV,3295273.9680000003
+ATHENA I,2021-04-13,Stowy Family,Capital Call,412622.91000000003
+ATHENA I,2021-04-13,Third Gen Partners,Capital Call,40211.64
+ATHENA I,2021-04-13,Gates Capital,Capital Call,112956.12000000001
+ATHENA I,2021-04-13,Overwatch LLC,Estimated NAV,4624249.392000001
+ATHENA I,2021-04-13,Overwatch LLC,Capital Call,447175.89
+ATHENA I,2021-04-13,Third Gen Partners,Estimated NAV,415827.216
+ATHENA I,2021-04-13,Gibraltar Investments,Capital Call,357458.4
+ATHENA I,2021-04-13,Jobs Capital,Capital Call,120634.65000000001
+ATHENA I,2021-04-13,Bill and Melinda Foundation,Capital Call,210959.1
+ATHENA I,2021-04-13,Bill and Melinda Foundation,Estimated NAV,2181525.696
+ATHENA I,2021-04-13,Gibraltar Investments,Estimated NAV,3696474.0960000004
+ATHENA I,2021-04-13,Gates Capital,Estimated NAV,1168077.456
+ATHENA I,2021-04-13,Stowy Family,Estimated NAV,4266930.528
+ATHENA I,2021-04-13,Gates Invest,Capital Call,318661.29000000004
+ATHENA I,2021-04-13,Jobs Capital,Estimated NAV,1247481.6480000003
+ATHENA I,2021-05-23,Third Gen Partners,Estimated NAV,412469.091
+ATHENA I,2021-05-23,Overwatch LLC,Estimated NAV,4139728.2900000005
+ATHENA I,2021-05-23,Overwatch LLC,Estimated NAV,4586905.017000001
+ATHENA I,2021-05-23,Stowy Family,Estimated NAV,4232471.778
+ATHENA I,2021-05-23,Gates Capital,Estimated NAV,1045688.4
+ATHENA I,2021-05-23,Gates Capital,Estimated NAV,1158644.331
+ATHENA I,2021-05-23,Gibraltar Investments,Estimated NAV,3309164.0100000002
+ATHENA I,2021-05-23,Gates Invest,Estimated NAV,3268662.0930000003
+ATHENA I,2021-05-23,Bill and Melinda Foundation,Estimated NAV,2163908.196
+ATHENA I,2021-05-23,Stowy Family,Estimated NAV,3819849.0300000003
+ATHENA I,2021-05-23,Bill and Melinda Foundation,Estimated NAV,1952949.1500000001
+ATHENA I,2021-05-23,Jobs Capital,Estimated NAV,1116772.6500000001
+ATHENA I,2021-05-23,Gibraltar Investments,Estimated NAV,3666622.2210000004
+ATHENA I,2021-05-23,Gates Invest,Estimated NAV,2950000.83
+ATHENA I,2021-05-23,Jobs Capital,Estimated NAV,1237407.2730000003
+ATHENA I,2021-05-23,Third Gen Partners,Estimated NAV,372257.64
+ATHENA I,2021-08-15,Bill and Melinda Foundation,Capital Call,511134.57
+ATHENA I,2021-08-15,Gibraltar Investments,Estimated NAV,4532711.3269650005
+ATHENA I,2021-08-15,Jobs Capital,Estimated NAV,1529693.986545
+ATHENA I,2021-08-15,Third Gen Partners,Capital Call,97428.96
+ATHENA I,2021-08-15,Gibraltar Investments,Capital Call,866088.9900000001
+ATHENA I,2021-08-15,Gates Invest,Estimated NAV,4040749.4418450003
+ATHENA I,2021-08-15,Gates Capital,Estimated NAV,1432326.5301150002
+ATHENA I,2021-08-15,Stowy Family,Capital Call,999747.9
+ATHENA I,2021-08-15,Gates Capital,Capital Call,273682.26
+ATHENA I,2021-08-15,Overwatch LLC,Capital Call,1083468.1500000001
+ATHENA I,2021-08-15,Overwatch LLC,Estimated NAV,5670373.186305
+ATHENA I,2021-08-15,Third Gen Partners,Estimated NAV,509897.995515
+ATHENA I,2021-08-15,Gates Invest,Capital Call,772087.41
+ATHENA I,2021-08-15,Bill and Melinda Foundation,Estimated NAV,2675042.7503400003
+ATHENA I,2021-08-15,Jobs Capital,Capital Call,292286.61000000004
+ATHENA I,2021-08-15,Stowy Family,Estimated NAV,5232219.63237
+ATHENA I,2021-09-30,Gates Capital,Capital Call,167110.83000000002
+ATHENA I,2021-09-30,Third Gen Partners,Capital Call,59490.18
+ATHENA I,2021-09-30,Third Gen Partners,Estimated NAV,569388.238371
+ATHENA I,2021-09-30,Jobs Capital,Capital Call,178470.81
+ATHENA I,2021-09-30,Gates Capital,Estimated NAV,1599437.312811
+ATHENA I,2021-09-30,Gates Invest,Estimated NAV,4512187.195533
+ATHENA I,2021-09-30,Stowy Family,Estimated NAV,5842667.250018001
+ATHENA I,2021-09-30,Gibraltar Investments,Estimated NAV,5061546.701901
+ATHENA I,2021-09-30,Bill and Melinda Foundation,Estimated NAV,2987142.3158760006
+ATHENA I,2021-09-30,Stowy Family,Capital Call,610447.5900000001
+ATHENA I,2021-09-30,Gibraltar Investments,Capital Call,528835.5
+ATHENA I,2021-09-30,Jobs Capital,Estimated NAV,1708164.715113
+ATHENA I,2021-09-30,Gates Invest,Capital Call,471437.82
+ATHENA I,2021-09-30,Bill and Melinda Foundation,Capital Call,312099.48000000004
+ATHENA I,2021-09-30,Overwatch LLC,Estimated NAV,6331940.560377001
+ATHENA I,2021-09-30,Overwatch LLC,Capital Call,661567.2300000001
+ATHENA I,2021-12-11,Gates Capital,Estimated NAV,1628400.7798110002
+ATHENA I,2021-12-11,Gates Capital,Estimated NAV,1187607.6900000002
+ATHENA I,2021-12-11,Third Gen Partners,Estimated NAV,579699.025371
+ATHENA I,2021-12-11,Overwatch LLC,Estimated NAV,4701567.78
+ATHENA I,2021-12-11,Stowy Family,Estimated NAV,5948469.396018
+ATHENA I,2021-12-11,Gibraltar Investments,Estimated NAV,5153203.898901001
+ATHENA I,2021-12-11,Gibraltar Investments,Estimated NAV,3758279.31
+ATHENA I,2021-12-11,Gates Invest,Estimated NAV,3350371.14
+ATHENA I,2021-12-11,Jobs Capital,Estimated NAV,1739097.076113
+ATHENA I,2021-12-11,Third Gen Partners,Estimated NAV,422779.77
+ATHENA I,2021-12-11,Jobs Capital,Estimated NAV,1268339.58
+ATHENA I,2021-12-11,Overwatch LLC,Estimated NAV,6446602.729377001
+ATHENA I,2021-12-11,Bill and Melinda Foundation,Estimated NAV,3041235.0878760004
+ATHENA I,2021-12-11,Gates Invest,Estimated NAV,4593896.296533
+ATHENA I,2021-12-11,Stowy Family,Estimated NAV,4338273.87
+ATHENA I,2021-12-11,Bill and Melinda Foundation,Estimated NAV,2218000.8600000003
+ATHENA I,2021-12-12,Overwatch LLC,Estimated NAV,6582110.49
+ATHENA I,2021-12-12,Bill and Melinda Foundation,Estimated NAV,3105161.892
+ATHENA I,2021-12-12,Overwatch LLC,Estimated NAV,6582110.409
+ATHENA I,2021-12-12,Bill and Melinda Foundation,Estimated NAV,3105162.0
+ATHENA I,2021-12-12,Gates Capital,Estimated NAV,1662629.787
+ATHENA I,2021-12-12,Jobs Capital,Estimated NAV,1775652.921
+ATHENA I,2021-12-12,Gates Capital,Estimated NAV,1662629.76
+ATHENA I,2021-12-12,Stowy Family,Estimated NAV,6073506.306000001
+ATHENA I,2021-12-12,Third Gen Partners,Estimated NAV,591884.307
+ATHENA I,2021-12-12,Stowy Family,Estimated NAV,6073506.36
+ATHENA I,2021-12-12,Gibraltar Investments,Estimated NAV,5261524.29
+ATHENA I,2021-12-12,Gibraltar Investments,Estimated NAV,5261524.317000001
+ATHENA I,2021-12-12,Jobs Capital,Estimated NAV,1775652.84
+ATHENA I,2021-12-12,Gates Invest,Estimated NAV,4690459.98
+ATHENA I,2021-12-12,Gates Invest,Estimated NAV,4690460.061000001
+ATHENA I,2021-12-12,Third Gen Partners,Estimated NAV,591884.28
+ATHENA I,2021-12-30,Stowy Family,Distribution,-488358.18000000005
+ATHENA I,2021-12-30,Gates Capital,Distribution,-133688.61000000002
+ATHENA I,2021-12-30,Gates Invest,Estimated NAV,4313309.8835970005
+ATHENA I,2021-12-30,Overwatch LLC,Distribution,-529253.73
+ATHENA I,2021-12-30,Gates Capital,Estimated NAV,1528941.169899
+ATHENA I,2021-12-30,Third Gen Partners,Distribution,-47592.090000000004
+ATHENA I,2021-12-30,Gates Invest,Distribution,-377150.31
+ATHENA I,2021-12-30,Bill and Melinda Foundation,Estimated NAV,2855482.2564840005
+ATHENA I,2021-12-30,Jobs Capital,Distribution,-142776.54
+ATHENA I,2021-12-30,Overwatch LLC,Estimated NAV,6052856.545593
+ATHENA I,2021-12-30,Third Gen Partners,Estimated NAV,544292.115939
+ATHENA I,2021-12-30,Gibraltar Investments,Distribution,-423068.4
+ATHENA I,2021-12-30,Stowy Family,Estimated NAV,5585148.244962
+ATHENA I,2021-12-30,Jobs Capital,Estimated NAV,1632876.347817
+ATHENA I,2021-12-30,Bill and Melinda Foundation,Distribution,-249679.53000000003
+ATHENA I,2021-12-30,Gibraltar Investments,Estimated NAV,4838456.045709
+ATHENA I,2022-03-30,Gates Capital,Estimated NAV,1877342.8050000002
+ATHENA I,2022-03-30,Gates Invest,Estimated NAV,5296188.915
+ATHENA I,2022-03-30,Gates Invest,Estimated NAV,5296188.78
+ATHENA I,2022-03-30,Jobs Capital,Estimated NAV,2004961.6800000002
+ATHENA I,2022-03-30,Third Gen Partners,Estimated NAV,668320.74
+ATHENA I,2022-03-30,Stowy Family,Estimated NAV,6857842.590000001
+ATHENA I,2022-03-30,Gates Capital,Estimated NAV,1877342.9400000002
+ATHENA I,2022-03-30,Gibraltar Investments,Estimated NAV,5941000.62
+ATHENA I,2022-03-30,Gibraltar Investments,Estimated NAV,5941000.755000001
+ATHENA I,2022-03-30,Overwatch LLC,Estimated NAV,7432128.2700000005
+ATHENA I,2022-03-30,Third Gen Partners,Estimated NAV,668320.6050000001
+ATHENA I,2022-03-30,Jobs Capital,Estimated NAV,2004961.8150000002
+ATHENA I,2022-03-30,Bill and Melinda Foundation,Estimated NAV,3506164.3800000004
+ATHENA I,2022-03-30,Overwatch LLC,Estimated NAV,7432128.135000001
+ATHENA I,2022-05-10,Stowy Family,Capital Call,530441.73
+ATHENA I,2022-05-10,Gates Invest,Estimated NAV,5705839.643103001
+ATHENA I,2022-05-10,Jobs Capital,Estimated NAV,2160042.020883
+ATHENA I,2022-05-10,Stowy Family,Estimated NAV,7388284.433238001
+ATHENA I,2022-05-10,Jobs Capital,Capital Call,155080.17
+ATHENA I,2022-05-10,Overwatch LLC,Capital Call,574862.13
+ATHENA I,2022-05-10,Third Gen Partners,Estimated NAV,720014.0069610002
+ATHENA I,2022-05-10,Overwatch LLC,Estimated NAV,8006989.936707
+ATHENA I,2022-05-10,Gibraltar Investments,Estimated NAV,6400526.5241910005
+ATHENA I,2022-05-10,Gates Invest,Capital Call,409650.75
+ATHENA I,2022-05-10,Bill and Melinda Foundation,Estimated NAV,3777359.9159160005
+ATHENA I,2022-05-10,Gates Capital,Estimated NAV,2022551.909001
+ATHENA I,2022-05-10,Third Gen Partners,Capital Call,51693.39000000001
+ATHENA I,2022-05-10,Gates Capital,Capital Call,145208.97
+ATHENA I,2022-05-10,Gibraltar Investments,Capital Call,459525.69
+ATHENA I,2022-05-10,Bill and Melinda Foundation,Capital Call,271195.56
+LOTUS II,2018-01-01,Overwatch LLC,Commitment,3398500.0
+LOTUS II,2018-01-01,Sapir LLC,Commitment,815500.0
+LOTUS II,2018-01-01,Gates Capital,Commitment,1358000.0
+LOTUS II,2018-01-01,Jobs Capital,Commitment,1358000.0
+LOTUS II,2018-01-01,Gibraltar Investments,Commitment,4893000.0
+LOTUS II,2018-01-01,Stowy Family,Commitment,5435500.0
+LOTUS II,2018-01-01,Third Gen Partners,Commitment,542500.0
+LOTUS II,2018-01-01,Gates Invest,Commitment,9516500.0
+LOTUS II,2018-01-01,Oak Family,Commitment,4760000.0
+LOTUS II,2018-01-01,MSD,Commitment,542500.0
+LOTUS II,2018-01-01,Bill and Melinda Foundation,Commitment,2380000.0
+LOTUS II,2019-01-09,Overwatch LLC,Estimated NAV,63678.3742
+LOTUS II,2019-01-09,Sapir LLC,Estimated NAV,15280.1866
+LOTUS II,2019-01-09,Overwatch LLC,Capital Call,63678.0
+LOTUS II,2019-01-09,Gibraltar Investments,Capital Call,91681.0
+LOTUS II,2019-01-09,MSD,Capital Call,10165.0
+LOTUS II,2019-01-09,Gates Capital,Capital Call,25445.0
+LOTUS II,2019-01-09,Gates Capital,Estimated NAV,25445.1176
+LOTUS II,2019-01-09,Bill and Melinda Foundation,Estimated NAV,44594.536
+LOTUS II,2019-01-09,Third Gen Partners,Estimated NAV,10164.931
+LOTUS II,2019-01-09,Third Gen Partners,Capital Call,10165.0
+LOTUS II,2019-01-09,Stowy Family,Capital Call,101846.0
+LOTUS II,2019-01-09,MSD,Estimated NAV,10164.931
+LOTUS II,2019-01-09,Gibraltar Investments,Estimated NAV,91681.1196
+LOTUS II,2019-01-09,Oak Family,Capital Call,89189.0
+LOTUS II,2019-01-09,Jobs Capital,Estimated NAV,25445.1176
+LOTUS II,2019-01-09,Stowy Family,Estimated NAV,101846.0506
+LOTUS II,2019-01-09,Bill and Melinda Foundation,Capital Call,44595.0
+LOTUS II,2019-01-09,Sapir LLC,Capital Call,15280.0
+LOTUS II,2019-01-09,Gates Invest,Capital Call,178313.0
+LOTUS II,2019-01-09,Jobs Capital,Capital Call,25445.0
+LOTUS II,2019-01-09,Gates Invest,Estimated NAV,178312.5638
+LOTUS II,2019-01-09,Oak Family,Estimated NAV,89189.072
+LOTUS II,2019-07-28,Oak Family,Estimated NAV,79422.368
+LOTUS II,2019-07-28,Gates Invest,Estimated NAV,158786.3372
+LOTUS II,2019-07-28,MSD,Distribution,-1113.0
+LOTUS II,2019-07-28,Stowy Family,Distribution,-11153.0
+LOTUS II,2019-07-28,Overwatch LLC,Distribution,-6973.0
+LOTUS II,2019-07-28,Third Gen Partners,Estimated NAV,9051.814
+LOTUS II,2019-07-28,Overwatch LLC,Estimated NAV,56705.2348
+LOTUS II,2019-07-28,Stowy Family,Estimated NAV,90693.3364
+LOTUS II,2019-07-28,Bill and Melinda Foundation,Distribution,-4883.0
+LOTUS II,2019-07-28,Jobs Capital,Distribution,-2786.0
+LOTUS II,2019-07-28,Oak Family,Distribution,-9767.0
+LOTUS II,2019-07-28,Third Gen Partners,Distribution,-1113.0
+LOTUS II,2019-07-28,MSD,Estimated NAV,9051.814
+LOTUS II,2019-07-28,Sapir LLC,Distribution,-1673.0
+LOTUS II,2019-07-28,Gibraltar Investments,Estimated NAV,81641.5224
+LOTUS II,2019-07-28,Jobs Capital,Estimated NAV,22658.7344
+LOTUS II,2019-07-28,Gibraltar Investments,Distribution,-10040.0
+LOTUS II,2019-07-28,Gates Capital,Estimated NAV,0.0
+LOTUS II,2019-07-28,Gates Invest,Distribution,-19527.0
+LOTUS II,2019-07-28,Sapir LLC,Estimated NAV,13606.9204
+LOTUS II,2019-07-28,Bill and Melinda Foundation,Estimated NAV,39711.184
+LOTUS II,2019-07-28,Gates Capital,Distribution,-2786.0
+LOTUS II,2019-08-12,Oak Family,Estimated NAV,55371.0
+LOTUS II,2019-08-12,Jobs Capital,Estimated NAV,15797.0
+LOTUS II,2019-08-12,Overwatch LLC,Estimated NAV,32560.1546
+LOTUS II,2019-08-12,Bill and Melinda Foundation,Estimated NAV,22802.168
+LOTUS II,2019-08-12,Bill and Melinda Foundation,Estimated NAV,27686.0
+LOTUS II,2019-08-12,Gates Invest,Estimated NAV,91175.1394
+LOTUS II,2019-08-12,Gibraltar Investments,Estimated NAV,46878.5748
+LOTUS II,2019-08-12,Gates Capital,Estimated NAV,13010.6488
+LOTUS II,2019-08-12,Jobs Capital,Estimated NAV,13010.6488
+LOTUS II,2019-08-12,Third Gen Partners,Estimated NAV,6311.0
+LOTUS II,2019-08-12,Stowy Family,Estimated NAV,63229.0
+LOTUS II,2019-08-12,MSD,Estimated NAV,6311.0
+LOTUS II,2019-08-12,Gibraltar Investments,Estimated NAV,56918.0
+LOTUS II,2019-08-12,Sapir LLC,Estimated NAV,9486.0
+LOTUS II,2019-08-12,Oak Family,Estimated NAV,45604.336
+LOTUS II,2019-08-12,Stowy Family,Estimated NAV,52076.1278
+LOTUS II,2019-08-12,Gates Invest,Estimated NAV,110701.0
+LOTUS II,2019-08-12,MSD,Estimated NAV,5197.553
+LOTUS II,2019-08-12,Sapir LLC,Estimated NAV,7813.0958
+LOTUS II,2019-08-12,Overwatch LLC,Estimated NAV,39533.0
+LOTUS II,2019-08-12,Third Gen Partners,Estimated NAV,5197.553
+LOTUS II,2019-08-12,Gates Capital,Estimated NAV,15797.0
+LOTUS II,2019-09-22,Third Gen Partners,Estimated NAV,3293.6105
+LOTUS II,2019-09-22,Gates Capital,Estimated NAV,8244.6508
+LOTUS II,2019-09-22,Sapir LLC,Estimated NAV,6624.0
+LOTUS II,2019-09-22,Bill and Melinda Foundation,Estimated NAV,19333.0
+LOTUS II,2019-09-22,Third Gen Partners,Estimated NAV,4407.0
+LOTUS II,2019-09-22,Stowy Family,Estimated NAV,44153.0
+LOTUS II,2019-09-22,Jobs Capital,Estimated NAV,8244.6508
+LOTUS II,2019-09-22,Gates Capital,Estimated NAV,11031.0
+LOTUS II,2019-09-22,MSD,Estimated NAV,4407.0
+LOTUS II,2019-09-22,Gibraltar Investments,Estimated NAV,39746.0
+LOTUS II,2019-09-22,Stowy Family,Estimated NAV,0.0
+LOTUS II,2019-09-22,Gibraltar Investments,Estimated NAV,29706.2418
+LOTUS II,2019-09-22,Bill and Melinda Foundation,Estimated NAV,14449.388
+LOTUS II,2019-09-22,Gates Invest,Estimated NAV,57776.3029
+LOTUS II,2019-09-22,Overwatch LLC,Estimated NAV,27606.0
+LOTUS II,2019-09-22,Overwatch LLC,Estimated NAV,20632.8761
+LOTUS II,2019-09-22,Gates Invest,Estimated NAV,77302.0
+LOTUS II,2019-09-22,Jobs Capital,Estimated NAV,11031.0
+LOTUS II,2019-09-22,Stowy Family,Estimated NAV,32999.8523
+LOTUS II,2019-09-22,Sapir LLC,Estimated NAV,4951.0403
+LOTUS II,2019-09-22,Oak Family,Estimated NAV,38665.0
+LOTUS II,2019-09-22,Oak Family,Estimated NAV,28898.776
+LOTUS II,2019-09-22,MSD,Estimated NAV,3293.6105
+LOTUS II,2019-12-29,Oak Family,Estimated NAV,224623.0
+LOTUS II,2019-12-29,Overwatch LLC,Estimated NAV,160374.0
+LOTUS II,2019-12-29,Gates Capital,Estimated NAV,64084.0
+LOTUS II,2019-12-29,Bill and Melinda Foundation,Estimated NAV,112311.316
+LOTUS II,2019-12-29,Third Gen Partners,Estimated NAV,25600.3735
+LOTUS II,2019-12-29,Gates Invest,Estimated NAV,449080.0
+LOTUS II,2019-12-29,Gates Invest,Estimated NAV,449080.1003
+LOTUS II,2019-12-29,Stowy Family,Estimated NAV,256499.2261
+LOTUS II,2019-12-29,Jobs Capital,Estimated NAV,64084.0
+LOTUS II,2019-12-29,Sapir LLC,Estimated NAV,38483.1421
+LOTUS II,2019-12-29,Gibraltar Investments,Estimated NAV,230899.0
+LOTUS II,2019-12-29,Oak Family,Estimated NAV,224622.632
+LOTUS II,2019-12-29,Third Gen Partners,Estimated NAV,25600.0
+LOTUS II,2019-12-29,Gates Capital,Estimated NAV,64083.5156
+LOTUS II,2019-12-29,Sapir LLC,Estimated NAV,38483.0
+LOTUS II,2019-12-29,Gibraltar Investments,Estimated NAV,230898.8526
+LOTUS II,2019-12-29,Bill and Melinda Foundation,Estimated NAV,112311.0
+LOTUS II,2019-12-29,Jobs Capital,Estimated NAV,64083.5156
+LOTUS II,2019-12-29,Stowy Family,Estimated NAV,256499.0
+LOTUS II,2019-12-29,MSD,Estimated NAV,25600.0
+LOTUS II,2019-12-29,Overwatch LLC,Estimated NAV,160373.9527
+LOTUS II,2019-12-29,MSD,Estimated NAV,25600.3735
+LOTUS II,2020-03-08,Stowy Family,Estimated NAV,206399.7567
+LOTUS II,2020-03-08,Bill and Melinda Foundation,Distribution,-21937.0
+LOTUS II,2020-03-08,Stowy Family,Distribution,-50099.0
+LOTUS II,2020-03-08,MSD,Distribution,-5000.0
+LOTUS II,2020-03-08,Sapir LLC,Estimated NAV,30966.6087
+LOTUS II,2020-03-08,Gates Invest,Distribution,-87715.0
+LOTUS II,2020-03-08,Overwatch LLC,Estimated NAV,129049.6869
+LOTUS II,2020-03-08,Gibraltar Investments,Distribution,-45099.0
+LOTUS II,2020-03-08,Overwatch LLC,Distribution,-31324.0
+LOTUS II,2020-03-08,Gates Capital,Distribution,-12517.0
+LOTUS II,2020-03-08,Bill and Melinda Foundation,Estimated NAV,90374.652
+LOTUS II,2020-03-08,Jobs Capital,Estimated NAV,51566.7132
+LOTUS II,2020-03-08,Jobs Capital,Distribution,-12517.0
+LOTUS II,2020-03-08,Oak Family,Estimated NAV,180749.304
+LOTUS II,2020-03-08,Gates Capital,Estimated NAV,51566.7132
+LOTUS II,2020-03-08,MSD,Estimated NAV,20600.1045
+LOTUS II,2020-03-08,Gates Invest,Estimated NAV,361365.7041
+LOTUS II,2020-03-08,Sapir LLC,Distribution,-7517.0
+LOTUS II,2020-03-08,Gibraltar Investments,Estimated NAV,185799.6522
+LOTUS II,2020-03-08,Third Gen Partners,Estimated NAV,20600.1045
+LOTUS II,2020-03-08,Oak Family,Distribution,-43873.0
+LOTUS II,2020-03-08,Third Gen Partners,Distribution,-5000.0
+LOTUS II,2020-04-19,Stowy Family,Estimated NAV,327423.0
+LOTUS II,2020-04-19,Gates Invest,Estimated NAV,485539.7151
+LOTUS II,2020-04-19,MSD,Estimated NAV,27678.7995
+LOTUS II,2020-04-19,Gibraltar Investments,Estimated NAV,249644.9142
+LOTUS II,2020-04-19,Gates Capital,Estimated NAV,69286.2852
+LOTUS II,2020-04-19,Jobs Capital,Estimated NAV,81803.0
+LOTUS II,2020-04-19,Bill and Melinda Foundation,Estimated NAV,143366.0
+LOTUS II,2020-04-19,Third Gen Partners,Estimated NAV,32679.0
+LOTUS II,2020-04-19,Oak Family,Estimated NAV,242859.144
+LOTUS II,2020-04-19,Sapir LLC,Estimated NAV,41607.4857
+LOTUS II,2020-04-19,Oak Family,Estimated NAV,286732.0
+LOTUS II,2020-04-19,Gibraltar Investments,Estimated NAV,294744.0
+LOTUS II,2020-04-19,Sapir LLC,Estimated NAV,49124.0
+LOTUS II,2020-04-19,Overwatch LLC,Estimated NAV,204719.0
+LOTUS II,2020-04-19,Overwatch LLC,Estimated NAV,173394.2859
+LOTUS II,2020-04-19,Stowy Family,Estimated NAV,277323.7137
+LOTUS II,2020-04-19,Gates Invest,Estimated NAV,573255.0
+LOTUS II,2020-04-19,Jobs Capital,Estimated NAV,69286.2852
+LOTUS II,2020-04-19,Gates Capital,Estimated NAV,81803.0
+LOTUS II,2020-04-19,Third Gen Partners,Estimated NAV,27678.7995
+LOTUS II,2020-04-19,Bill and Melinda Foundation,Estimated NAV,121429.572
+LOTUS II,2020-04-19,MSD,Estimated NAV,32679.0
+LOTUS II,2020-07-01,Gates Invest,Estimated NAV,235074.9516
+LOTUS II,2020-07-01,Overwatch LLC,Estimated NAV,83949.1644
+LOTUS II,2020-07-01,MSD,Estimated NAV,13400.742
+LOTUS II,2020-07-01,Gibraltar Investments,Estimated NAV,120866.0
+LOTUS II,2020-07-01,Oak Family,Estimated NAV,117580.704
+LOTUS II,2020-07-01,Stowy Family,Estimated NAV,134266.7892
+LOTUS II,2020-07-01,Gates Invest,Estimated NAV,235075.0
+LOTUS II,2020-07-01,Stowy Family,Estimated NAV,134267.0
+LOTUS II,2020-07-01,Third Gen Partners,Estimated NAV,13400.742
+LOTUS II,2020-07-01,Bill and Melinda Foundation,Estimated NAV,58790.352
+LOTUS II,2020-07-01,Bill and Melinda Foundation,Estimated NAV,58790.0
+LOTUS II,2020-07-01,Sapir LLC,Estimated NAV,20144.3412
+LOTUS II,2020-07-01,Oak Family,Estimated NAV,117581.0
+LOTUS II,2020-07-01,Jobs Capital,Estimated NAV,33545.0
+LOTUS II,2020-07-01,Gates Capital,Estimated NAV,33545.0
+LOTUS II,2020-07-01,MSD,Estimated NAV,13401.0
+LOTUS II,2020-07-01,Sapir LLC,Estimated NAV,20144.0
+LOTUS II,2020-07-01,Overwatch LLC,Estimated NAV,83949.0
+LOTUS II,2020-07-01,Gates Capital,Estimated NAV,33545.0832
+LOTUS II,2020-07-01,Gibraltar Investments,Estimated NAV,120866.0472
+LOTUS II,2020-07-01,Third Gen Partners,Estimated NAV,13401.0
+LOTUS II,2020-07-01,Jobs Capital,Estimated NAV,33545.0832
+LOTUS II,2020-08-13,Jobs Capital,Capital Call,49597.0
+LOTUS II,2020-08-13,Gates Capital,Capital Call,49597.0
+LOTUS II,2020-08-13,Overwatch LLC,Estimated NAV,208069.8611
+LOTUS II,2020-08-13,MSD,Estimated NAV,33214.0355
+LOTUS II,2020-08-13,Oak Family,Estimated NAV,291426.376
+LOTUS II,2020-08-13,Bill and Melinda Foundation,Capital Call,86923.0
+LOTUS II,2020-08-13,Third Gen Partners,Estimated NAV,33214.0355
+LOTUS II,2020-08-13,Overwatch LLC,Capital Call,124121.0
+LOTUS II,2020-08-13,Gates Invest,Capital Call,347564.0
+LOTUS II,2020-08-13,Stowy Family,Estimated NAV,332783.2073
+LOTUS II,2020-08-13,Gibraltar Investments,Estimated NAV,299569.1718
+LOTUS II,2020-08-13,Third Gen Partners,Capital Call,19813.0
+LOTUS II,2020-08-13,Gibraltar Investments,Capital Call,178703.0
+LOTUS II,2020-08-13,Jobs Capital,Estimated NAV,83142.2308
+LOTUS II,2020-08-13,Sapir LLC,Estimated NAV,49928.1953
+LOTUS II,2020-08-13,Oak Family,Capital Call,173846.0
+LOTUS II,2020-08-13,Gates Capital,Estimated NAV,83142.2308
+LOTUS II,2020-08-13,Gates Invest,Estimated NAV,582638.4679
+LOTUS II,2020-08-13,MSD,Capital Call,19813.0
+LOTUS II,2020-08-13,Sapir LLC,Capital Call,29784.0
+LOTUS II,2020-08-13,Stowy Family,Capital Call,198516.0
+LOTUS II,2020-08-13,Bill and Melinda Foundation,Estimated NAV,145713.188
+LOTUS II,2020-09-18,Jobs Capital,Estimated NAV,193989.718
+LOTUS II,2020-09-18,Oak Family,Capital Call,388538.0
+LOTUS II,2020-09-18,Gibraltar Investments,Capital Call,399394.0
+LOTUS II,2020-09-18,MSD,Estimated NAV,77495.8925
+LOTUS II,2020-09-18,Jobs Capital,Capital Call,110847.0
+LOTUS II,2020-09-18,Bill and Melinda Foundation,Estimated NAV,339981.98
+LOTUS II,2020-09-18,Stowy Family,Capital Call,443676.0
+LOTUS II,2020-09-18,Sapir LLC,Estimated NAV,116493.8255
+LOTUS II,2020-09-18,Gates Capital,Estimated NAV,193989.718
+LOTUS II,2020-09-18,Gates Invest,Estimated NAV,1359427.9465
+LOTUS II,2020-09-18,MSD,Capital Call,44282.0
+LOTUS II,2020-09-18,Gates Invest,Capital Call,776789.0
+LOTUS II,2020-09-18,Oak Family,Estimated NAV,679963.96
+LOTUS II,2020-09-18,Gates Capital,Capital Call,110847.0
+LOTUS II,2020-09-18,Gibraltar Investments,Estimated NAV,698962.953
+LOTUS II,2020-09-18,Sapir LLC,Capital Call,66566.0
+LOTUS II,2020-09-18,Overwatch LLC,Estimated NAV,485474.2685
+LOTUS II,2020-09-18,Bill and Melinda Foundation,Capital Call,194269.0
+LOTUS II,2020-09-18,Third Gen Partners,Capital Call,44282.0
+LOTUS II,2020-09-18,Stowy Family,Estimated NAV,776458.8455
+LOTUS II,2020-09-18,Overwatch LLC,Capital Call,277404.0
+LOTUS II,2020-09-18,Third Gen Partners,Estimated NAV,77495.8925
+LOTUS II,2020-09-29,Overwatch LLC,Estimated NAV,123097.0
+LOTUS II,2020-09-29,Sapir LLC,Estimated NAV,125887.7564
+LOTUS II,2020-09-29,Gates Capital,Estimated NAV,209632.8304
+LOTUS II,2020-09-29,Stowy Family,Estimated NAV,839071.6124
+LOTUS II,2020-09-29,Bill and Melinda Foundation,Estimated NAV,367397.744
+LOTUS II,2020-09-29,Sapir LLC,Estimated NAV,29538.0
+LOTUS II,2020-09-29,Bill and Melinda Foundation,Estimated NAV,86206.0
+LOTUS II,2020-09-29,Jobs Capital,Estimated NAV,209632.8304
+LOTUS II,2020-09-29,Gibraltar Investments,Estimated NAV,755326.5384
+LOTUS II,2020-09-29,MSD,Estimated NAV,83745.074
+LOTUS II,2020-09-29,Overwatch LLC,Estimated NAV,524622.3668
+LOTUS II,2020-09-29,Stowy Family,Estimated NAV,196880.0
+LOTUS II,2020-09-29,Third Gen Partners,Estimated NAV,83745.074
+LOTUS II,2020-09-29,Gates Invest,Estimated NAV,1469050.6852
+LOTUS II,2020-09-29,Oak Family,Estimated NAV,172412.0
+LOTUS II,2020-09-29,Oak Family,Estimated NAV,734795.488
+LOTUS II,2020-09-29,MSD,Estimated NAV,19650.0
+LOTUS II,2020-09-29,Gates Capital,Estimated NAV,49188.0
+LOTUS II,2020-09-29,Gibraltar Investments,Estimated NAV,177230.0
+LOTUS II,2020-09-29,Gates Invest,Estimated NAV,344698.0
+LOTUS II,2020-09-29,Third Gen Partners,Estimated NAV,19650.0
+LOTUS II,2020-09-29,Jobs Capital,Estimated NAV,49188.0
+LOTUS II,2020-11-06,Bill and Melinda Foundation,Capital Call,93897.0
+LOTUS II,2020-11-06,MSD,Capital Call,21403.0
+LOTUS II,2020-11-06,Gibraltar Investments,Capital Call,193043.0
+LOTUS II,2020-11-06,Gates Invest,Capital Call,375453.0
+LOTUS II,2020-11-06,Gates Capital,Estimated NAV,263209.7328
+LOTUS II,2020-11-06,Stowy Family,Estimated NAV,1053517.3068
+LOTUS II,2020-11-06,Bill and Melinda Foundation,Estimated NAV,461295.408
+LOTUS II,2020-11-06,Oak Family,Capital Call,187795.0
+LOTUS II,2020-11-06,Overwatch LLC,Estimated NAV,658702.7076
+LOTUS II,2020-11-06,Jobs Capital,Estimated NAV,263209.7328
+LOTUS II,2020-11-06,Gibraltar Investments,Estimated NAV,948369.0888
+LOTUS II,2020-11-06,MSD,Estimated NAV,105148.218
+LOTUS II,2020-11-06,Third Gen Partners,Capital Call,21403.0
+LOTUS II,2020-11-06,Oak Family,Estimated NAV,922590.816
+LOTUS II,2020-11-06,Third Gen Partners,Estimated NAV,105148.218
+LOTUS II,2020-11-06,Gates Invest,Estimated NAV,1844503.2564
+LOTUS II,2020-11-06,Gates Capital,Capital Call,53577.0
+LOTUS II,2020-11-06,Overwatch LLC,Capital Call,134080.0
+LOTUS II,2020-11-06,Sapir LLC,Estimated NAV,158061.5148
+LOTUS II,2020-11-06,Jobs Capital,Capital Call,53577.0
+LOTUS II,2020-11-06,Stowy Family,Capital Call,214446.0
+LOTUS II,2020-11-06,Sapir LLC,Capital Call,32174.0
+LOTUS II,2020-11-27,Gibraltar Investments,Estimated NAV,1501915.7166
+LOTUS II,2020-11-27,Third Gen Partners,Capital Call,61373.0
+LOTUS II,2020-11-27,Bill and Melinda Foundation,Estimated NAV,730545.556
+LOTUS II,2020-11-27,Jobs Capital,Estimated NAV,416840.6996
+LOTUS II,2020-11-27,Gates Invest,Capital Call,1076605.0
+LOTUS II,2020-11-27,Oak Family,Estimated NAV,1461091.112
+LOTUS II,2020-11-27,Gates Capital,Estimated NAV,416840.6996
+LOTUS II,2020-11-27,Oak Family,Capital Call,538500.0
+LOTUS II,2020-11-27,MSD,Estimated NAV,166521.4135
+LOTUS II,2020-11-27,Stowy Family,Estimated NAV,1668437.1301
+LOTUS II,2020-11-27,Gates Invest,Estimated NAV,2921107.8923
+LOTUS II,2020-11-27,Sapir LLC,Estimated NAV,250319.2861
+LOTUS II,2020-11-27,Gibraltar Investments,Capital Call,553547.0
+LOTUS II,2020-11-27,Bill and Melinda Foundation,Capital Call,269250.0
+LOTUS II,2020-11-27,Gates Capital,Capital Call,153631.0
+LOTUS II,2020-11-27,Overwatch LLC,Capital Call,384473.0
+LOTUS II,2020-11-27,Sapir LLC,Capital Call,92258.0
+LOTUS II,2020-11-27,Overwatch LLC,Estimated NAV,1043176.0807
+LOTUS II,2020-11-27,Stowy Family,Capital Call,614920.0
+LOTUS II,2020-11-27,Third Gen Partners,Estimated NAV,166521.4135
+LOTUS II,2020-11-27,Jobs Capital,Capital Call,153631.0
+LOTUS II,2020-11-27,MSD,Capital Call,61373.0
+LOTUS II,2020-12-09,Third Gen Partners,Estimated NAV,199664.056
+LOTUS II,2020-12-09,Oak Family,Estimated NAV,1751891.072
+LOTUS II,2020-12-09,Gates Capital,Capital Call,82964.0
+LOTUS II,2020-12-09,Oak Family,Capital Call,290800.0
+LOTUS II,2020-12-09,Stowy Family,Capital Call,332068.0
+LOTUS II,2020-12-09,Gibraltar Investments,Estimated NAV,1800840.9696
+LOTUS II,2020-12-09,Bill and Melinda Foundation,Estimated NAV,875945.536
+LOTUS II,2020-12-09,Third Gen Partners,Capital Call,33143.0
+LOTUS II,2020-12-09,Sapir LLC,Capital Call,49821.0
+LOTUS II,2020-12-09,Stowy Family,Estimated NAV,2000505.0256
+LOTUS II,2020-12-09,Gibraltar Investments,Capital Call,298925.0
+LOTUS II,2020-12-09,Gates Capital,Estimated NAV,499804.2176
+LOTUS II,2020-12-09,Sapir LLC,Estimated NAV,300140.1616
+LOTUS II,2020-12-09,Overwatch LLC,Estimated NAV,1250798.6992
+LOTUS II,2020-12-09,Gates Invest,Estimated NAV,3502493.9888
+LOTUS II,2020-12-09,Jobs Capital,Estimated NAV,499804.2176
+LOTUS II,2020-12-09,Overwatch LLC,Capital Call,207623.0
+LOTUS II,2020-12-09,Jobs Capital,Capital Call,82964.0
+LOTUS II,2020-12-09,Bill and Melinda Foundation,Capital Call,145400.0
+LOTUS II,2020-12-09,Gates Invest,Capital Call,581384.0
+LOTUS II,2020-12-09,MSD,Capital Call,33143.0
+LOTUS II,2020-12-09,MSD,Estimated NAV,199664.056
+LOTUS II,2020-12-24,Oak Family,Estimated NAV,932929.0
+LOTUS II,2020-12-24,MSD,Estimated NAV,222245.448
+LOTUS II,2020-12-24,Bill and Melinda Foundation,Estimated NAV,975012.288
+LOTUS II,2020-12-24,Bill and Melinda Foundation,Estimated NAV,466464.0
+LOTUS II,2020-12-24,Third Gen Partners,Estimated NAV,222245.448
+LOTUS II,2020-12-24,Gibraltar Investments,Estimated NAV,2004510.5568
+LOTUS II,2020-12-24,Overwatch LLC,Estimated NAV,666084.0
+LOTUS II,2020-12-24,MSD,Estimated NAV,106326.0
+LOTUS II,2020-12-24,Third Gen Partners,Estimated NAV,106326.0
+LOTUS II,2020-12-24,Gates Capital,Estimated NAV,556330.5408
+LOTUS II,2020-12-24,Jobs Capital,Estimated NAV,266159.0
+LOTUS II,2020-12-24,Oak Family,Estimated NAV,1950024.576
+LOTUS II,2020-12-24,Stowy Family,Estimated NAV,1065323.0
+LOTUS II,2020-12-24,Sapir LLC,Estimated NAV,334085.0928
+LOTUS II,2020-12-24,Overwatch LLC,Estimated NAV,1392260.1936
+LOTUS II,2020-12-24,Sapir LLC,Estimated NAV,159833.0
+LOTUS II,2020-12-24,Gates Invest,Estimated NAV,3898615.3104
+LOTUS II,2020-12-24,Stowy Family,Estimated NAV,2226756.0048
+LOTUS II,2020-12-24,Gates Invest,Estimated NAV,1865173.0
+LOTUS II,2020-12-24,Gibraltar Investments,Estimated NAV,958996.0
+LOTUS II,2020-12-24,Jobs Capital,Estimated NAV,556330.5408
+LOTUS II,2020-12-24,Gates Capital,Estimated NAV,266159.0
+LOTUS II,2021-03-05,MSD,Estimated NAV,296256.5065
+LOTUS II,2021-03-05,Third Gen Partners,Estimated NAV,296256.5065
+LOTUS II,2021-03-05,Stowy Family,Estimated NAV,2968299.0619
+LOTUS II,2021-03-05,Sapir LLC,Capital Call,111255.0
+LOTUS II,2021-03-05,Stowy Family,Capital Call,741543.0
+LOTUS II,2021-03-05,Overwatch LLC,Capital Call,463643.0
+LOTUS II,2021-03-05,Gates Invest,Capital Call,1298299.0
+LOTUS II,2021-03-05,Gibraltar Investments,Capital Call,667532.0
+LOTUS II,2021-03-05,Jobs Capital,Capital Call,185266.0
+LOTUS II,2021-03-05,Jobs Capital,Estimated NAV,741596.9324
+LOTUS II,2021-03-05,Oak Family,Capital Call,649387.0
+LOTUS II,2021-03-05,Gates Invest,Estimated NAV,5196912.5237
+LOTUS II,2021-03-05,MSD,Capital Call,74011.0
+LOTUS II,2021-03-05,Sapir LLC,Estimated NAV,445340.4259
+LOTUS II,2021-03-05,Gates Capital,Estimated NAV,741596.9324
+LOTUS II,2021-03-05,Bill and Melinda Foundation,Estimated NAV,1299705.964
+LOTUS II,2021-03-05,Bill and Melinda Foundation,Capital Call,324694.0
+LOTUS II,2021-03-05,Overwatch LLC,Estimated NAV,1855903.6633
+LOTUS II,2021-03-05,Oak Family,Estimated NAV,2599411.928
+LOTUS II,2021-03-05,Gibraltar Investments,Estimated NAV,2672042.5554
+LOTUS II,2021-03-05,Third Gen Partners,Capital Call,74011.0
+LOTUS II,2021-03-05,Gates Capital,Capital Call,185266.0
+LOTUS II,2021-03-26,Gibraltar Investments,Estimated NAV,3322960.4424
+LOTUS II,2021-03-26,Stowy Family,Capital Call,723087.0
+LOTUS II,2021-03-26,Jobs Capital,Estimated NAV,922252.2544
+LOTUS II,2021-03-26,Third Gen Partners,Estimated NAV,368425.514
+LOTUS II,2021-03-26,Gates Capital,Estimated NAV,922252.2544
+LOTUS II,2021-03-26,Sapir LLC,Estimated NAV,553826.7404
+LOTUS II,2021-03-26,Oak Family,Estimated NAV,3232636.768
+LOTUS II,2021-03-26,Oak Family,Capital Call,633225.0
+LOTUS II,2021-03-26,Overwatch LLC,Capital Call,452104.0
+LOTUS II,2021-03-26,Jobs Capital,Capital Call,180655.0
+LOTUS II,2021-03-26,Gates Capital,Capital Call,180655.0
+LOTUS II,2021-03-26,Third Gen Partners,Capital Call,72169.0
+LOTUS II,2021-03-26,Overwatch LLC,Estimated NAV,2308007.5748
+LOTUS II,2021-03-26,MSD,Estimated NAV,368425.514
+LOTUS II,2021-03-26,Bill and Melinda Foundation,Capital Call,316612.0
+LOTUS II,2021-03-26,Stowy Family,Estimated NAV,3691385.9564
+LOTUS II,2021-03-26,Sapir LLC,Capital Call,108486.0
+LOTUS II,2021-03-26,Gates Invest,Capital Call,1265985.0
+LOTUS II,2021-03-26,MSD,Capital Call,72169.0
+LOTUS II,2021-03-26,Bill and Melinda Foundation,Estimated NAV,1616318.384
+LOTUS II,2021-03-26,Gibraltar Investments,Capital Call,650918.0
+LOTUS II,2021-03-26,Gates Invest,Estimated NAV,6462896.5972
+LOTUS II,2021-03-31,Gates Capital,Estimated NAV,1108765.7944
+LOTUS II,2021-03-31,Overwatch LLC,Estimated NAV,0.0
+LOTUS II,2021-03-31,Third Gen Partners,Estimated NAV,296755.0
+LOTUS II,2021-03-31,Stowy Family,Estimated NAV,2973291.0
+LOTUS II,2021-03-31,Jobs Capital,Estimated NAV,1108765.7944
+LOTUS II,2021-03-31,Oak Family,Estimated NAV,2603783.0
+LOTUS II,2021-03-31,Oak Family,Estimated NAV,3886395.568
+LOTUS II,2021-03-31,Jobs Capital,Estimated NAV,742844.0
+LOTUS II,2021-03-31,Bill and Melinda Foundation,Estimated NAV,1943197.784
+LOTUS II,2021-03-31,MSD,Estimated NAV,442934.789
+LOTUS II,2021-03-31,Stowy Family,Estimated NAV,4437920.8214
+LOTUS II,2021-03-31,Gibraltar Investments,Estimated NAV,2676536.0
+LOTUS II,2021-03-31,Bill and Melinda Foundation,Estimated NAV,1301892.0
+LOTUS II,2021-03-31,Gates Invest,Estimated NAV,5205652.0
+LOTUS II,2021-03-31,MSD,Estimated NAV,296755.0
+LOTUS II,2021-03-31,Sapir LLC,Estimated NAV,665831.0054
+LOTUS II,2021-03-31,Gates Capital,Estimated NAV,742844.0
+LOTUS II,2021-03-31,Sapir LLC,Estimated NAV,446089.0
+LOTUS II,2021-03-31,Overwatch LLC,Estimated NAV,1859025.0
+LOTUS II,2021-03-31,Gates Invest,Estimated NAV,7769933.4922
+LOTUS II,2021-03-31,Gibraltar Investments,Estimated NAV,3994986.0324
+LOTUS II,2021-03-31,Third Gen Partners,Estimated NAV,442934.789
+LOTUS II,2021-05-25,Sapir LLC,Estimated NAV,713027.2757
+LOTUS II,2021-05-25,Gates Capital,Capital Call,78593.0
+LOTUS II,2021-05-25,Gates Invest,Estimated NAV,8320691.6851
+LOTUS II,2021-05-25,Overwatch LLC,Capital Call,196685.0
+LOTUS II,2021-05-25,Stowy Family,Estimated NAV,4752495.1037
+LOTUS II,2021-05-25,MSD,Estimated NAV,474331.4495
+LOTUS II,2021-05-25,Gibraltar Investments,Capital Call,283178.0
+LOTUS II,2021-05-25,Stowy Family,Capital Call,314574.0
+LOTUS II,2021-05-25,Bill and Melinda Foundation,Estimated NAV,2080937.972
+LOTUS II,2021-05-25,Bill and Melinda Foundation,Capital Call,137740.0
+LOTUS II,2021-05-25,Jobs Capital,Capital Call,78593.0
+LOTUS II,2021-05-25,Jobs Capital,Estimated NAV,1187358.7252
+LOTUS II,2021-05-25,Overwatch LLC,Estimated NAV,2971457.0159
+LOTUS II,2021-05-25,Third Gen Partners,Estimated NAV,474331.4495
+LOTUS II,2021-05-25,Oak Family,Capital Call,275480.0
+LOTUS II,2021-05-25,MSD,Capital Call,31397.0
+LOTUS II,2021-05-25,Oak Family,Estimated NAV,4161875.944
+LOTUS II,2021-05-25,Gates Capital,Estimated NAV,1187358.7252
+LOTUS II,2021-05-25,Sapir LLC,Capital Call,47196.0
+LOTUS II,2021-05-25,Third Gen Partners,Capital Call,31397.0
+LOTUS II,2021-05-25,Gates Invest,Capital Call,550758.0
+LOTUS II,2021-05-25,Gibraltar Investments,Estimated NAV,4278163.6542
+LOTUS II,2021-06-29,MSD,Estimated NAV,513985.611
+LOTUS II,2021-06-29,Sapir LLC,Estimated NAV,772636.4346
+LOTUS II,2021-06-29,Gibraltar Investments,Estimated NAV,4352641.0
+LOTUS II,2021-06-29,Jobs Capital,Estimated NAV,1286622.0456
+LOTUS II,2021-06-29,Overwatch LLC,Estimated NAV,3219871.1502
+LOTUS II,2021-06-29,Oak Family,Estimated NAV,4234329.0
+LOTUS II,2021-06-29,Bill and Melinda Foundation,Estimated NAV,2117164.0
+LOTUS II,2021-06-29,Sapir LLC,Estimated NAV,725440.0
+LOTUS II,2021-06-29,Third Gen Partners,Estimated NAV,482589.0
+LOTUS II,2021-06-29,Third Gen Partners,Estimated NAV,513985.611
+LOTUS II,2021-06-29,Overwatch LLC,Estimated NAV,3023186.0
+LOTUS II,2021-06-29,Gates Capital,Estimated NAV,1286622.0456
+LOTUS II,2021-06-29,Bill and Melinda Foundation,Estimated NAV,2254904.616
+LOTUS II,2021-06-29,Gates Capital,Estimated NAV,1208029.0
+LOTUS II,2021-06-29,Jobs Capital,Estimated NAV,1208029.0
+LOTUS II,2021-06-29,Gates Invest,Estimated NAV,9016302.4278
+LOTUS II,2021-06-29,Stowy Family,Estimated NAV,4835230.0
+LOTUS II,2021-06-29,Gibraltar Investments,Estimated NAV,4635818.6076
+LOTUS II,2021-06-29,Stowy Family,Estimated NAV,5149804.2186
+LOTUS II,2021-06-29,Oak Family,Estimated NAV,4509809.232
+LOTUS II,2021-06-29,MSD,Estimated NAV,482589.0
+LOTUS II,2021-06-29,Gates Invest,Estimated NAV,8465545.0
+LOTUS II,2021-08-18,MSD,Distribution,-11563.0
+LOTUS II,2021-08-18,Sapir LLC,Distribution,-17382.0
+LOTUS II,2021-08-18,Stowy Family,Estimated NAV,5033949.1762
+LOTUS II,2021-08-18,Sapir LLC,Estimated NAV,755254.4482
+LOTUS II,2021-08-18,Gibraltar Investments,Estimated NAV,4531526.6892
+LOTUS II,2021-08-18,Third Gen Partners,Distribution,-11563.0
+LOTUS II,2021-08-18,Jobs Capital,Estimated NAV,1257676.9352
+LOTUS II,2021-08-18,Third Gen Partners,Estimated NAV,502422.487
+LOTUS II,2021-08-18,Gates Invest,Estimated NAV,8813462.8526
+LOTUS II,2021-08-18,Oak Family,Estimated NAV,4408352.144
+LOTUS II,2021-08-18,Bill and Melinda Foundation,Distribution,-50729.0
+LOTUS II,2021-08-18,Gates Capital,Distribution,-28945.0
+LOTUS II,2021-08-18,MSD,Estimated NAV,502422.487
+LOTUS II,2021-08-18,Stowy Family,Distribution,-115855.0
+LOTUS II,2021-08-18,Gibraltar Investments,Distribution,-104292.0
+LOTUS II,2021-08-18,Gates Invest,Distribution,-202840.0
+LOTUS II,2021-08-18,Bill and Melinda Foundation,Estimated NAV,2204176.072
+LOTUS II,2021-08-18,Gates Capital,Estimated NAV,1257676.9352
+LOTUS II,2021-08-18,Jobs Capital,Distribution,-28945.0
+LOTUS II,2021-08-18,Oak Family,Distribution,-101457.0
+LOTUS II,2021-08-18,Overwatch LLC,Distribution,-72437.0
+LOTUS II,2021-08-18,Overwatch LLC,Estimated NAV,3147433.7734
+LOTUS II,2021-09-12,Jobs Capital,Estimated NAV,1238617.1336
+LOTUS II,2021-09-12,Gates Capital,Chargeback Capital Call,-19060.0
+LOTUS II,2021-09-12,Third Gen Partners,Estimated NAV,494808.391
+LOTUS II,2021-09-12,Bill and Melinda Foundation,Estimated NAV,2170772.296
+LOTUS II,2021-09-12,Bill and Melinda Foundation,Chargeback Capital Call,-33404.0
+LOTUS II,2021-09-12,Sapir LLC,Chargeback Capital Call,-11446.0
+LOTUS II,2021-09-12,Overwatch LLC,Estimated NAV,3099735.1462
+LOTUS II,2021-09-12,Third Gen Partners,Chargeback Capital Call,-7614.0
+LOTUS II,2021-09-12,MSD,Chargeback Capital Call,-7614.0
+LOTUS II,2021-09-12,Gates Invest,Chargeback Capital Call,-133565.0
+LOTUS II,2021-09-12,Stowy Family,Chargeback Capital Call,-76288.0
+LOTUS II,2021-09-12,Jobs Capital,Chargeback Capital Call,-19060.0
+LOTUS II,2021-09-12,Gibraltar Investments,Chargeback Capital Call,-68674.0
+LOTUS II,2021-09-12,Oak Family,Estimated NAV,4341544.592
+LOTUS II,2021-09-12,Sapir LLC,Estimated NAV,743808.7426
+LOTUS II,2021-09-12,Gibraltar Investments,Estimated NAV,4462852.4556
+LOTUS II,2021-09-12,Gates Invest,Estimated NAV,8679896.8718
+LOTUS II,2021-09-12,Oak Family,Chargeback Capital Call,-66808.0
+LOTUS II,2021-09-12,Overwatch LLC,Chargeback Capital Call,-47699.0
+LOTUS II,2021-09-12,Stowy Family,Estimated NAV,4957660.8466
+LOTUS II,2021-09-12,MSD,Estimated NAV,494808.391
+LOTUS II,2021-09-12,Gates Capital,Estimated NAV,1238617.1336
+LOTUS II,2021-09-26,Stowy Family,Estimated NAV,5617264.2071
+LOTUS II,2021-09-26,Gates Invest,Estimated NAV,9834733.6633
+LOTUS II,2021-09-26,Sapir LLC,Estimated NAV,842770.4831
+LOTUS II,2021-09-26,MSD,Estimated NAV,560641.3085
+LOTUS II,2021-09-26,Jobs Capital,Estimated NAV,1403411.7916
+LOTUS II,2021-09-26,Gates Capital,Estimated NAV,1451417.0
+LOTUS II,2021-09-26,Oak Family,Estimated NAV,4919175.352
+LOTUS II,2021-09-26,MSD,Estimated NAV,579819.0
+LOTUS II,2021-09-26,Gibraltar Investments,Estimated NAV,5056622.8986
+LOTUS II,2021-09-26,Third Gen Partners,Estimated NAV,560641.3085
+LOTUS II,2021-09-26,Stowy Family,Estimated NAV,5809408.0
+LOTUS II,2021-09-26,Gibraltar Investments,Estimated NAV,5229589.0
+LOTUS II,2021-09-26,Gates Invest,Estimated NAV,10171137.0
+LOTUS II,2021-09-26,Jobs Capital,Estimated NAV,1451417.0
+LOTUS II,2021-09-26,Sapir LLC,Estimated NAV,871598.0
+LOTUS II,2021-09-26,Bill and Melinda Foundation,Estimated NAV,2459587.676
+LOTUS II,2021-09-26,Overwatch LLC,Estimated NAV,3632283.0
+LOTUS II,2021-09-26,Overwatch LLC,Estimated NAV,3512146.5197
+LOTUS II,2021-09-26,Oak Family,Estimated NAV,5087440.0
+LOTUS II,2021-09-26,Third Gen Partners,Estimated NAV,579819.0
+LOTUS II,2021-09-26,Bill and Melinda Foundation,Estimated NAV,2543720.0
+LOTUS II,2021-09-26,Gates Capital,Estimated NAV,1403411.7916
+LOTUS II,2021-12-02,Gibraltar Investments,Distribution,-236556.0
+LOTUS II,2021-12-02,Oak Family,Distribution,-230126.0
+LOTUS II,2021-12-02,Bill and Melinda Foundation,Distribution,-115063.0
+LOTUS II,2021-12-02,Gates Invest,Estimated NAV,9374650.3138
+LOTUS II,2021-12-02,Overwatch LLC,Distribution,-164303.0
+LOTUS II,2021-12-02,Jobs Capital,Estimated NAV,1337758.1176
+LOTUS II,2021-12-02,Overwatch LLC,Estimated NAV,3347843.1242
+LOTUS II,2021-12-02,Sapir LLC,Distribution,-39426.0
+LOTUS II,2021-12-02,Sapir LLC,Estimated NAV,803344.4366
+LOTUS II,2021-12-02,MSD,Estimated NAV,534413.681
+LOTUS II,2021-12-02,Third Gen Partners,Distribution,-26228.0
+LOTUS II,2021-12-02,Third Gen Partners,Estimated NAV,534413.681
+LOTUS II,2021-12-02,Gates Invest,Distribution,-460083.0
+LOTUS II,2021-12-02,MSD,Distribution,-26228.0
+LOTUS II,2021-12-02,Oak Family,Estimated NAV,4689049.072
+LOTUS II,2021-12-02,Stowy Family,Estimated NAV,5354480.3006
+LOTUS II,2021-12-02,Gibraltar Investments,Estimated NAV,4820066.6196
+LOTUS II,2021-12-02,Bill and Melinda Foundation,Estimated NAV,2344524.536
+LOTUS II,2021-12-02,Stowy Family,Distribution,-262784.0
+LOTUS II,2021-12-02,Gates Capital,Estimated NAV,1337758.1176
+LOTUS II,2021-12-02,Jobs Capital,Distribution,-65654.0
+LOTUS II,2021-12-02,Gates Capital,Distribution,-65654.0
+LOTUS II,2022-01-02,Stowy Family,Estimated NAV,5910793.447846
+LOTUS II,2022-01-02,Third Gen Partners,Estimated NAV,616165.0
+LOTUS II,2022-01-02,Gates Invest,Estimated NAV,10808730.0
+LOTUS II,2022-01-02,MSD,Estimated NAV,616165.0
+LOTUS II,2022-01-02,Oak Family,Estimated NAV,5406352.0
+LOTUS II,2022-01-02,Gates Capital,Estimated NAV,1476746.849816
+LOTUS II,2022-01-02,Gibraltar Investments,Estimated NAV,5557412.0
+LOTUS II,2022-01-02,Sapir LLC,Estimated NAV,926235.0
+LOTUS II,2022-01-02,Overwatch LLC,Estimated NAV,3859977.0
+LOTUS II,2022-01-02,Jobs Capital,Estimated NAV,1542401.0
+LOTUS II,2022-01-02,Jobs Capital,Estimated NAV,1476746.849816
+LOTUS II,2022-01-02,Oak Family,Estimated NAV,5176226.07152
+LOTUS II,2022-01-02,Stowy Family,Estimated NAV,6173577.0
+LOTUS II,2022-01-02,Sapir LLC,Estimated NAV,886809.319606
+LOTUS II,2022-01-02,Overwatch LLC,Estimated NAV,3695673.173122
+LOTUS II,2022-01-02,Bill and Melinda Foundation,Estimated NAV,2588113.03576
+LOTUS II,2022-01-02,Third Gen Partners,Estimated NAV,589937.53021
+LOTUS II,2022-01-02,Gibraltar Investments,Estimated NAV,5320855.917636
+LOTUS II,2022-01-02,Bill and Melinda Foundation,Estimated NAV,2703176.0
+LOTUS II,2022-01-02,Gates Capital,Estimated NAV,1542401.0
+LOTUS II,2022-01-02,Gates Invest,Estimated NAV,10348646.094458
+LOTUS II,2022-01-02,MSD,Estimated NAV,589937.53021
+LOTUS II,2022-01-18,Overwatch LLC,Distribution,-26369.0
+LOTUS II,2022-01-18,Third Gen Partners,Distribution,-4209.0
+LOTUS II,2022-01-18,Bill and Melinda Foundation,Distribution,-18467.0
+LOTUS II,2022-01-18,Gates Capital,Estimated NAV,1466209.993956
+LOTUS II,2022-01-18,Jobs Capital,Estimated NAV,1466209.993956
+LOTUS II,2022-01-18,Gates Capital,Distribution,-10537.0
+LOTUS II,2022-01-18,MSD,Distribution,-4209.0
+LOTUS II,2022-01-18,Sapir LLC,Distribution,-6328.0
+LOTUS II,2022-01-18,Gibraltar Investments,Distribution,-37965.0
+LOTUS II,2022-01-18,Jobs Capital,Distribution,-10537.0
+LOTUS II,2022-01-18,Gates Invest,Distribution,-73839.0
+LOTUS II,2022-01-18,MSD,Estimated NAV,585728.219235
+LOTUS II,2022-01-18,Oak Family,Estimated NAV,5139292.76232
+LOTUS II,2022-01-18,Overwatch LLC,Estimated NAV,3669303.876627
+LOTUS II,2022-01-18,Bill and Melinda Foundation,Estimated NAV,2569646.38116
+LOTUS II,2022-01-18,Stowy Family,Distribution,-42175.0
+LOTUS II,2022-01-18,Oak Family,Distribution,-36933.0
+LOTUS II,2022-01-18,Sapir LLC,Estimated NAV,880481.774721
+LOTUS II,2022-01-18,Gibraltar Investments,Estimated NAV,5282890.648326
+LOTUS II,2022-01-18,Gates Invest,Estimated NAV,10274806.632903
+LOTUS II,2022-01-18,Third Gen Partners,Estimated NAV,585728.219235
+LOTUS II,2022-01-18,Stowy Family,Estimated NAV,5868618.867561
+LOTUS II,2022-04-03,Gates Invest,Estimated NAV,11204374.323345
+LOTUS II,2022-04-03,Overwatch LLC,Estimated NAV,4001267.917605
+LOTUS II,2022-04-03,Oak Family,Estimated NAV,5604247.5468
+LOTUS II,2022-04-03,Stowy Family,Estimated NAV,6399556.206015
+LOTUS II,2022-04-03,Oak Family,Estimated NAV,5641181.0
+LOTUS II,2022-04-03,Jobs Capital,Estimated NAV,1598858.85894
+LOTUS II,2022-04-03,Third Gen Partners,Estimated NAV,642929.0
+LOTUS II,2022-04-03,Gates Capital,Estimated NAV,1609396.0
+LOTUS II,2022-04-03,Gates Capital,Estimated NAV,1598858.85894
+LOTUS II,2022-04-03,Stowy Family,Estimated NAV,6441731.0
+LOTUS II,2022-04-03,Sapir LLC,Estimated NAV,966467.0
+LOTUS II,2022-04-03,Gates Invest,Estimated NAV,11278213.0
+LOTUS II,2022-04-03,Jobs Capital,Estimated NAV,1609396.0
+LOTUS II,2022-04-03,Sapir LLC,Estimated NAV,960139.469415
+LOTUS II,2022-04-03,Gibraltar Investments,Estimated NAV,5760836.81649
+LOTUS II,2022-04-03,MSD,Estimated NAV,638719.389525
+LOTUS II,2022-04-03,Gibraltar Investments,Estimated NAV,5798802.0
+LOTUS II,2022-04-03,MSD,Estimated NAV,642929.0
+LOTUS II,2022-04-03,Bill and Melinda Foundation,Estimated NAV,2802123.7734
+LOTUS II,2022-04-03,Overwatch LLC,Estimated NAV,4027637.0
+LOTUS II,2022-04-03,Third Gen Partners,Estimated NAV,638719.389525
+LOTUS II,2022-04-03,Bill and Melinda Foundation,Estimated NAV,2820590.0
+TYP I,2019-01-01,Third Gen Partners,Commitment,120500.0
+TYP I,2019-01-01,Gates Invest,Commitment,1475000.0
+TYP I,2019-01-01,Oak Family,Commitment,263500.0
+TYP I,2019-01-01,MSD,Commitment,86000.0
+TYP I,2019-01-01,Gibraltar Investments,Commitment,560500.0
+TYP I,2019-01-01,Overwatch LLC,Commitment,485500.0
+TYP I,2019-01-01,Gates Capital,Commitment,367000.0
+TYP I,2019-01-01,Jobs Capital,Commitment,267000.0
+TYP I,2019-01-01,Stowy Family,Commitment,766000.0
+TYP I,2019-01-01,Bill and Melinda Foundation,Commitment,512000.0
+TYP I,2019-01-01,Sapir LLC,Commitment,96500.0
+TYP I,2019-06-17,Gates Capital,Capital Call,367146.0
+TYP I,2019-06-17,Jobs Capital,Estimated NAV,267000.0
+TYP I,2019-06-17,Overwatch LLC,Estimated NAV,485500.0
+TYP I,2019-06-17,Oak Family,Capital Call,263529.0
+TYP I,2019-06-17,Gates Capital,Estimated NAV,367000.0
+TYP I,2019-06-17,Sapir LLC,Capital Call,96679.0
+TYP I,2019-06-17,Gates Invest,Estimated NAV,1475000.0
+TYP I,2019-06-17,Overwatch LLC,Capital Call,485437.0
+TYP I,2019-06-17,Stowy Family,Estimated NAV,766000.0
+TYP I,2019-06-17,Bill and Melinda Foundation,Capital Call,512120.0
+TYP I,2019-06-17,Gibraltar Investments,Estimated NAV,560500.0
+TYP I,2019-06-17,Third Gen Partners,Capital Call,120713.0
+TYP I,2019-06-17,Third Gen Partners,Estimated NAV,120500.0
+TYP I,2019-06-17,Jobs Capital,Capital Call,266984.0
+TYP I,2019-06-17,Gates Invest,Capital Call,1475000.0
+TYP I,2019-06-17,Oak Family,Estimated NAV,263500.0
+TYP I,2019-06-17,MSD,Estimated NAV,86000.0
+TYP I,2019-06-17,Sapir LLC,Estimated NAV,96500.0
+TYP I,2019-06-17,Bill and Melinda Foundation,Estimated NAV,512000.0
+TYP I,2019-06-17,Stowy Family,Capital Call,766000.0
+TYP I,2019-06-17,MSD,Capital Call,85818.0
+TYP I,2019-06-17,Gibraltar Investments,Capital Call,560574.0
+TYP I,2020-06-11,Sapir LLC,Estimated NAV,106555.0
+TYP I,2020-06-11,Third Gen Partners,Estimated NAV,133056.1723
+TYP I,2020-06-11,Gates Invest,Estimated NAV,1629248.0
+TYP I,2020-06-11,Gibraltar Investments,Estimated NAV,618904.0
+TYP I,2020-06-11,Gibraltar Investments,Estimated NAV,618904.4363
+TYP I,2020-06-11,Jobs Capital,Estimated NAV,294822.0
+TYP I,2020-06-11,Gates Capital,Estimated NAV,405241.6202
+TYP I,2020-06-11,Gates Invest,Estimated NAV,1628695.885
+TYP I,2020-06-11,Stowy Family,Estimated NAV,845817.6596
+TYP I,2020-06-11,Bill and Melinda Foundation,Estimated NAV,565350.7072
+TYP I,2020-06-11,Stowy Family,Estimated NAV,845818.0
+TYP I,2020-06-11,Oak Family,Estimated NAV,290957.0
+TYP I,2020-06-11,Third Gen Partners,Estimated NAV,133056.0
+TYP I,2020-06-11,Overwatch LLC,Estimated NAV,536089.3913
+TYP I,2020-06-11,MSD,Estimated NAV,94961.2516
+TYP I,2020-06-11,Bill and Melinda Foundation,Estimated NAV,565351.0
+TYP I,2020-06-11,MSD,Estimated NAV,94961.0
+TYP I,2020-06-11,Overwatch LLC,Estimated NAV,536089.0
+TYP I,2020-06-11,Sapir LLC,Estimated NAV,106555.3579
+TYP I,2020-06-11,Oak Family,Estimated NAV,290956.8581
+TYP I,2020-06-11,Jobs Capital,Estimated NAV,294821.5602
+TYP I,2020-06-11,Gates Capital,Estimated NAV,405242.0
+TYP I,2020-06-15,Third Gen Partners,Other Fees,99.0
+TYP I,2020-06-15,MSD,Other Fees,70.0
+TYP I,2020-06-15,Oak Family,Estimated NAV,263500.0
+TYP I,2020-06-15,Oak Family,Other Fees,216.0
+TYP I,2020-06-15,Gates Invest,Other Fees,1208.0
+TYP I,2020-06-15,Gates Invest,Estimated NAV,1475000.0
+TYP I,2020-06-15,Sapir LLC,Other Fees,79.0
+TYP I,2020-06-15,Bill and Melinda Foundation,Estimated NAV,512000.0
+TYP I,2020-06-15,Bill and Melinda Foundation,Other Fees,419.0
+TYP I,2020-06-15,Third Gen Partners,Estimated NAV,120500.0
+TYP I,2020-06-15,Jobs Capital,Other Fees,219.0
+TYP I,2020-06-15,Gibraltar Investments,Estimated NAV,560500.0
+TYP I,2020-06-15,Gates Capital,Other Fees,301.0
+TYP I,2020-06-15,Gibraltar Investments,Other Fees,459.0
+TYP I,2020-06-15,Overwatch LLC,Other Fees,398.0
+TYP I,2020-06-15,Gates Capital,Estimated NAV,367000.0
+TYP I,2020-06-15,Sapir LLC,Estimated NAV,96500.0
+TYP I,2020-06-15,Overwatch LLC,Estimated NAV,485500.0
+TYP I,2020-06-15,Stowy Family,Estimated NAV,766000.0
+TYP I,2020-06-15,Jobs Capital,Estimated NAV,267000.0
+TYP I,2020-06-15,MSD,Estimated NAV,86000.0
+TYP I,2020-06-15,Stowy Family,Other Fees,0.0
+TYP I,2020-10-14,Oak Family,Estimated NAV,77608.9185
+TYP I,2020-10-14,Gibraltar Investments,Other Fees,453820.0
+TYP I,2020-10-14,Third Gen Partners,Estimated NAV,35490.9855
+TYP I,2020-10-14,MSD,Chargeback Capital Call,-69632.0
+TYP I,2020-10-14,Gates Invest,Chargeback Capital Call,-1194666.0
+TYP I,2020-10-14,Gibraltar Investments,Chargeback Capital Call,-453820.0
+TYP I,2020-10-14,Gates Capital,Other Fees,297149.0
+TYP I,2020-10-14,Overwatch LLC,Estimated NAV,142994.8005
+TYP I,2020-10-14,Bill and Melinda Foundation,Estimated NAV,150799.872
+TYP I,2020-10-14,Stowy Family,Chargeback Capital Call,-620207.0
+TYP I,2020-10-14,Gates Capital,Estimated NAV,108092.877
+TYP I,2020-10-14,Gibraltar Investments,Estimated NAV,165084.6255
+TYP I,2020-10-14,Stowy Family,Estimated NAV,225610.746
+TYP I,2020-10-14,Sapir LLC,Other Fees,78133.0
+TYP I,2020-10-14,Jobs Capital,Chargeback Capital Call,-216182.0
+TYP I,2020-10-14,Oak Family,Other Fees,213348.0
+TYP I,2020-10-14,Stowy Family,Other Fees,620207.0
+TYP I,2020-10-14,MSD,Other Fees,69632.0
+TYP I,2020-10-14,MSD,Estimated NAV,25329.666
+TYP I,2020-10-14,Overwatch LLC,Other Fees,393095.0
+TYP I,2020-10-14,Bill and Melinda Foundation,Other Fees,414551.0
+TYP I,2020-10-14,Sapir LLC,Estimated NAV,28422.2415
+TYP I,2020-10-14,Gates Capital,Chargeback Capital Call,-297149.0
+TYP I,2020-10-14,Oak Family,Chargeback Capital Call,-213348.0
+TYP I,2020-10-14,Gates Invest,Estimated NAV,434433.225
+TYP I,2020-10-14,Bill and Melinda Foundation,Chargeback Capital Call,-414551.0
+TYP I,2020-10-14,Third Gen Partners,Other Fees,97565.0
+TYP I,2020-10-14,Overwatch LLC,Chargeback Capital Call,-393095.0
+TYP I,2020-10-14,Jobs Capital,Other Fees,216182.0
+TYP I,2020-10-14,Gates Invest,Other Fees,1194666.0
+TYP I,2020-10-14,Third Gen Partners,Chargeback Capital Call,-97565.0
+TYP I,2020-10-14,Sapir LLC,Chargeback Capital Call,-78133.0
+TYP I,2020-10-14,Jobs Capital,Estimated NAV,78639.777
+TYP I,2020-10-15,Oak Family,Estimated NAV,421526.0619
+TYP I,2020-10-15,Overwatch LLC,Estimated NAV,776664.0
+TYP I,2020-10-15,MSD,Estimated NAV,137576.0
+TYP I,2020-10-15,Jobs Capital,Estimated NAV,427125.0798
+TYP I,2020-10-15,Jobs Capital,Estimated NAV,427125.0
+TYP I,2020-10-15,Stowy Family,Estimated NAV,1225385.0604
+TYP I,2020-10-15,Gates Capital,Estimated NAV,587097.0198
+TYP I,2020-10-15,Sapir LLC,Estimated NAV,154372.9221
+TYP I,2020-10-15,Gates Invest,Estimated NAV,2359586.115
+TYP I,2020-10-15,Bill and Melinda Foundation,Estimated NAV,819056.0
+TYP I,2020-10-15,Sapir LLC,Estimated NAV,154373.0
+TYP I,2020-10-15,Gates Invest,Estimated NAV,2360386.0
+TYP I,2020-10-15,Stowy Family,Estimated NAV,1225385.0
+TYP I,2020-10-15,Oak Family,Estimated NAV,421526.0
+TYP I,2020-10-15,Gates Capital,Estimated NAV,587097.0
+TYP I,2020-10-15,Third Gen Partners,Estimated NAV,192766.0
+TYP I,2020-10-15,Gibraltar Investments,Estimated NAV,896643.0
+TYP I,2020-10-15,Overwatch LLC,Estimated NAV,776663.7687
+TYP I,2020-10-15,Gibraltar Investments,Estimated NAV,896642.7237
+TYP I,2020-10-15,Bill and Melinda Foundation,Estimated NAV,819056.3328
+TYP I,2020-10-15,Third Gen Partners,Estimated NAV,192766.1877
+TYP I,2020-10-15,MSD,Estimated NAV,137575.8684
