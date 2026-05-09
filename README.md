@@ -54,14 +54,70 @@ Private equity valuations are smoothed and lagged. That masks real volatility. T
 
 ```
 .
-├── transform.py          # ETL: ingestion, cleaning, auditing
-├── model_risk.py         # Risk engine: feature eng, OLS, AutoGluon, forecasting
-├── requirements.txt      # Core deps (Torch, AutoGluon, Polars)
-├── metadata.csv          # Cleaned deal-level static data
-├── measures.csv          # Normalized transaction log
-├── macro_regimes.csv     # Historical regime indicators (VIX Z-scores)
-└── scenario_stress.csv   # Probabilistic forecast outputs
+├── transform.py              # ETL: ingestion, cleaning, auditing
+├── requirements.txt          # Core deps
+├── config.json               # Agent configuration
+├── metadata.csv              # Cleaned deal-level static data
+├── measures.csv              # Normalized transaction log
+│
+├── src/agents/
+│   ├── __init__.py
+│   ├── auto_forecast.py      # Autonomous forecasting agent
+│   ├── alert_manager.py      # Multi-channel alerting (Slack, Email, Webhook)
+│   ├── dashboard_api.py      # FastAPI dashboard endpoints
+│   └── README.md             # Agent documentation
+│
+├── results/
+│   ├── forecasts/            # Generated forecast CSVs
+│   ├── history/              # Historical tracking
+│   │   ├── forecasts.csv
+│   │   ├── deviations.csv
+│   │   └── alerts.csv
+│   └── auto_forecast.log     # Agent logs
+│
+├── run_auto_forecast.py      # CLI entry point
+└── run_dashboard.py          # API server launcher
 ```
+
+---
+
+## Auto-Forecast Agent
+
+Autonomous forecasting with automated alerts and dashboard integration.
+
+**Features:**
+- Scheduled weekly/monthly forecast runs
+- SARIMAX + fallback models per-deal forecasting
+- Forecast vs. actual deviation detection
+- Real-time regime change detection (volatility/trend-based)
+- Multi-channel alerts: Slack, Email, Webhook
+- FastAPI dashboard data endpoints for Looker Studio integration
+
+**Quick start:**
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run forecast
+python run_auto_forecast.py
+
+# Start dashboard API
+python run_dashboard.py
+# Visit http://localhost:8000/docs for interactive API docs
+```
+
+**Scheduling (cron):**
+
+```bash
+# Weekly forecast (Mondays 2am)
+0 2 * * 1 cd /path/to/project && python run_auto_forecast.py >> results/cron.log 2>&1
+
+# Monthly forecast (1st of month)
+0 2 1 * * cd /path/to/project && python run_auto_forecast.py >> results/cron.log 2>&1
+```
+
+Detailed documentation: [`src/agents/README.md`](src/agents/README.md)
 
 ---
 

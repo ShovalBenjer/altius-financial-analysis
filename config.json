@@ -1,0 +1,47 @@
+{
+  "data": {
+    "measures_path": "results/measures.csv",
+    "metadata_path": "results/metadata.csv",
+    "forecast_output_path": "results/forecasts",
+    "history_path": "results/history"
+  },
+  "forecasting": {
+    "horizon_months": 12,
+    "retrain_interval_days": 30,
+    "confidence_level": 0.9,
+    "min_history_points": 24,
+    "seasonality_mode": "additive",
+    "detect_regime_changes": true,
+    "regime_change_threshold": 2.0,
+    "actuals_vs_forecast_deviation_threshold_pct": 15.0,
+    "value_at_risk_pct": 0.1
+  },
+  "alerts": {
+    "email": {
+      "enabled": false,
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587,
+      "sender_email": "",
+      "recipient_emails": [],
+      "use_tls": true
+    },
+    "slack": {
+      "enabled": false,
+      "webhook_url": ""
+    },
+    "webhook": {
+      "enabled": false,
+      "url": "",
+      "headers": {}
+    }
+  },
+  "dashboard": {
+    "host": "0.0.0.0",
+    "port": 8000,
+    "debug": false
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "results/auto_forecast.log"
+  }
+}
