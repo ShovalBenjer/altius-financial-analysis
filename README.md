@@ -22,7 +22,7 @@ OLS missed the PE valuation lag (R²=0.049). Chronos didn't. This pipeline catch
 
 ## What It Does
 
-Private equity valuations are smoothed and lagged. That masks real volatility. This pipeline audits data integrity, strips accounting artifacts, and models tail risk using AutoGluon's ensemble -- catching a $34M valuation discrepancy in the source data along the way.
+Private equity valuations are smoothed and lagged. That masks real volatility. This pipeline audits data integrity, strips accounting artifacts, and models tail risk using AutoGluon's ensemble, catching a $34M valuation discrepancy in the source data along the way.
 
 **Key numbers:**
 - OLS R² = 0.049 (proved linear models can't explain PE returns)
